@@ -29,4 +29,5 @@ BUNGEE_SKIN_HELP: |-
     §d
 BUNGEE_SKIN_HAS_BEES_RESET: '$@BUNGEE_SKIN_PREFIX$ §8| §fТвой скин успешно сброшен'
 BUNGEE_SKIN_HAS_BEEN_UPDATED_TO: '$@BUNGEE_SKIN_PREFIX$ §8| §fТы успешно установил скин игрока §d%s'
+
 BUNGEE_SKIN_IS_INVALID: '$@BUNGEE_SKIN_PREFIX$ §8| §fВыбранный тобой скин невалиден или произошла какая-то ошибка'
