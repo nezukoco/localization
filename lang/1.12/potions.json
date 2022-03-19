@@ -1,0 +1,139 @@
+{
+  "POTION": {
+    "SPEED": {
+      "ru": "Скорость",
+      "ua": "Швидкість",
+      "en": "Speed"
+    },
+    "SLOW": {
+      "ru": "Замедление",
+      "ua": "Повільність",
+      "en": "Slowness"
+    },
+    "FAST_DIGGING": {
+      "ru": "Спешка",
+      "ua": "Квапливість",
+      "en": "Haste"
+    },
+    "SLOW_DIGGING": {
+      "ru": "Утомление",
+      "ua": "Втома",
+      "en": "Mining Fatigue"
+    },
+    "INCREASE_DAMAGE": {
+      "ru": "Сила",
+      "ua": "Сила",
+      "en": "Strength"
+    },
+    "HEAL": {
+      "ru": "Исцеление",
+      "ua": "Миттєве зцілення",
+      "en": "Instant Health"
+    },
+    "HARM": {
+      "ru": "Моментальный урон",
+      "ua": "Миттєва шкода",
+      "en": "Instant Damage"
+    },
+    "JUMP": {
+      "ru": "Прыгучесть",
+      "ua": "Стрибучість",
+      "en": "Jump Boost"
+    },
+    "CONFUSION": {
+      "ru": "Тошнота",
+      "ua": "Нудота",
+      "en": "Nausea"
+    },
+    "REGENERATION": {
+      "ru": "Регенерация",
+      "ua": "Відновлення",
+      "en": "Regeneration"
+    },
+    "DAMAGE_RESISTANCE": {
+      "ru": "Сопротивление",
+      "ua": "Стійкість",
+      "en": "Resistance"
+    },
+    "FIRE_RESISTANCE": {
+      "ru": "Огнестойкость",
+      "ua": "Вогнестійкість",
+      "en": "Fire Resistance"
+    },
+    "WATER_BREATHING": {
+      "ru": "Водное дыхание",
+      "ua": "Водяне дихання",
+      "en": "Water Breathing"
+    },
+    "INVISIBILITY": {
+      "ru": "Невидимость",
+      "ua": "Невидимість",
+      "en": "Invisibility"
+    },
+    "BLINDNESS": {
+      "ru": "Слепота",
+      "ua": "Сліпота",
+      "en": "Blindness"
+    },
+    "NIGHT_VISION": {
+      "ru": "Ночное зрение",
+      "ua": "Нічне бачення",
+      "en": "Night Vision"
+    },
+    "HUNGER": {
+      "ru": "Голод",
+      "ua": "Голод",
+      "en": "Hunger"
+    },
+    "WEAKNESS": {
+      "ru": "Слабость",
+      "ua": "Слабкість",
+      "en": "Weakness"
+    },
+    "POISON": {
+      "ru": "Отравление",
+      "ua": "Отруєння",
+      "en": "Poison"
+    },
+    "WITHER": {
+      "ru": "Иссушение",
+      "ua": "Висушування",
+      "en": "Wither"
+    },
+    "HEALTH_BOOST": {
+      "ru": "Прилив здоровья",
+      "ua": "Приплив здоров\u0027я",
+      "en": "Health Boost"
+    },
+    "ABSORPTION": {
+      "ru": "Поглощение",
+      "ua": "Поглинання",
+      "en": "Absorption"
+    },
+    "SATURATION": {
+      "ru": "Насыщение",
+      "ua": "Ситність",
+      "en": "Saturation"
+    },
+    "GLOWING": {
+      "ru": "Свечение",
+      "ua": "Світіння",
+      "en": "Glowing"
+    },
+    "LEVITATION": {
+      "ru": "Левитация",
+      "ua": "Левітація",
+      "en": "Levitation"
+    },
+    "LUCK": {
+      "ru": "Удача",
+      "ua": "Вдача",
+      "en": "Luck"
+    },
+    "UNLUCK": {
+      "ru": "Невезение",
+      "ua": "Погана вдача",
+      "en": "Bad Luck"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "ENCHANTMENT": {
+    "PROTECTION_FIRE": {
+      "ru": "Огнеупорность",
+      "ua": "Вогнестійкість",
+      "en": "Fire Protection"
+    },
+    "DAMAGE_ALL": {
+      "ru": "Острота",
+      "ua": "Гострота",
+      "en": "Sharpness"
+    },
+    "ARROW_FIRE": {
+      "ru": "Воспламенение",
+      "ua": "Полум\u0027я",
+      "en": "Flame"
+    },
+    "SOUL_SPEED": {
+      "ru": "Скорость души",
+      "ua": "Швидкість душ",
+      "en": "Soul Speed"
+    },
+    "WATER_WORKER": {
+      "ru": "Подводник",
+      "ua": "Рідність води",
+      "en": "Aqua Affinity"
+    },
+    "ARROW_KNOCKBACK": {
+      "ru": "Откидывание",
+      "ua": "Відкидування",
+      "en": "Punch"
+    },
+    "LOYALTY": {
+      "ru": "Верность",
+      "ua": "Вірність",
+      "en": "Loyalty"
+    },
+    "DEPTH_STRIDER": {
+      "ru": "Подводная ходьба",
+      "ua": "Глибинний бігун",
+      "en": "Depth Strider"
+    },
+    "VANISHING_CURSE": {
+      "ru": "Проклятие утраты",
+      "ua": "Прокляття втрати",
+      "en": "Curse of Vanishing"
+    },
+    "DURABILITY": {
+      "ru": "Прочность",
+      "ua": "Незламність",
+      "en": "Unbreaking"
+    },
+    "KNOCKBACK": {
+      "ru": "Отдача",
+      "ua": "Віддача",
+      "en": "Knockback"
+    },
+    "LUCK": {
+      "ru": "Везучий рыбак",
+      "ua": "Морська фортуна",
+      "en": "Luck of the Sea"
+    },
+    "BINDING_CURSE": {
+      "ru": "Проклятие несъёмности",
+      "ua": "Прокляття прив\u0027язування",
+      "en": "Curse of Binding"
+    },
+    "LOOT_BONUS_BLOCKS": {
+      "ru": "Удача",
+      "ua": "Вдача",
+      "en": "Fortune"
+    },
+    "PROTECTION_ENVIRONMENTAL": {
+      "ru": "Защита",
+      "ua": "Захист",
+      "en": "Protection"
+    },
+    "DIG_SPEED": {
+      "ru": "Эффективность",
+      "ua": "Ефективність",
+      "en": "Efficiency"
+    },
+    "MENDING": {
+      "ru": "Починка",
+      "ua": "Ремонт",
+      "en": "Mending"
+    },
+    "FROST_WALKER": {
+      "ru": "Ледоход",
+      "ua": "Льодохід",
+      "en": "Frost Walker"
+    },
+    "LURE": {
+      "ru": "Приманка",
+      "ua": "Приманка",
+      "en": "Lure"
+    },
+    "LOOT_BONUS_MOBS": {
+      "ru": "Добыча",
+      "ua": "Продуктивність",
+      "en": "Looting"
+    },
+    "PIERCING": {
+      "ru": "Пронзающая стрела",
+      "ua": "Пронизуюча стрiла",
+      "en": "Piercing"
+    },
+    "PROTECTION_EXPLOSIONS": {
+      "ru": "Взрывоустойчивость",
+      "ua": "Захист від вибухів",
+      "en": "Blast Protection"
+    },
+    "DAMAGE_UNDEAD": {
+      "ru": "Небесная кара",
+      "ua": "Небесна кара",
+      "en": "Smite"
+    },
+    "MULTISHOT": {
+      "ru": "Тройной выстрел",
+      "ua": "Потрiйний постріл",
+      "en": "Multishot"
+    },
+    "FIRE_ASPECT": {
+      "ru": "Заговор огня",
+      "ua": "Сила вогню",
+      "en": "Fire Aspect"
+    },
+    "CHANNELING": {
+      "ru": "Громовержец",
+      "ua": "Блискавиця",
+      "en": "Channelling"
+    },
+    "SWEEPING_EDGE": {
+      "ru": "Разящий клинок",
+      "ua": "Нищівне лезо",
+      "en": "Sweeping Edge"
+    },
+    "THORNS": {
+      "ru": "Шипы",
+      "ua": "Шипи",
+      "en": "Thorns"
+    },
+    "DAMAGE_ARTHROPODS": {
+      "ru": "Бич членистоногих",
+      "ua": "Загибель членистоногих",
+      "en": "Bane of Arthropods"
+    },
+    "OXYGEN": {
+      "ru": "Подводное дыхание",
+      "ua": "Дихання",
+      "en": "Respiration"
+    },
+    "RIPTIDE": {
+      "ru": "Тягун",
+      "ua": "Тягун",
+      "en": "Riptide"
+    },
+    "SILK_TOUCH": {
+      "ru": "Шёлковое касание",
+      "ua": "Шовковий дотик",
+      "en": "Silk Touch"
+    },
+    "QUICK_CHARGE": {
+      "ru": "Быстрая перезарядка",
+      "ua": "Швидка перезарядка",
+      "en": "Quick Charge"
+    },
+    "PROTECTION_PROJECTILE": {
+      "ru": "Защита от снарядов",
+      "ua": "Захист від снарядів",
+      "en": "Projectile Protection"
+    },
+    "IMPALING": {
+      "ru": "Пронзатель",
+      "ua": "Пронизування",
+      "en": "Impaling"
+    },
+    "PROTECTION_FALL": {
+      "ru": "Невесомость",
+      "ua": "Невагомість",
+      "en": "Feather Falling"
+    },
+    "ARROW_DAMAGE": {
+      "ru": "Сила",
+      "ua": "Сила",
+      "en": "Power"
+    },
+    "ARROW_INFINITE": {
+      "ru": "Бесконечность",
+      "ua": "Нескінченність",
+      "en": "Infinity"
+    }
+  }
+}

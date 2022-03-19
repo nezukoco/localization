@@ -1,0 +1,16 @@
+{
+  "exclude-rules": {
+    "VERSION != 1.16": [
+      ":1.16:items",
+      ":1.16:entities",
+      ":1.16:enchantments",
+      ":1.16:potions"
+    ],
+    "VERSION != 1.12": [
+      ":1.12:items",
+      ":1.12:entities",
+      ":1.12:enchantments",
+      ":1.12:potions"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "SERVER_PREFIX": {
+    "ru": "§d§lСЕРВЕР §8| §f"
+  },
+  "LANGUAGE_CHANGE": {
+    "ru": "$@SERVER_PREFIX$Язык успешно изменен на: §5%s"
+  },
+  "ERROR_COMMAND": {
+    "ru": "%sОшибка, используй: §d%s"
+  },
+  "ONLINE": {
+    "ru": "§aВ сети"
+  },
+  "OFFLINE": {
+    "ru": "§cНе в сети"
+  },
+  "WEBSITE": {
+    "ru": "NekoCloud.me"
+  },
+  "IP": {
+    "ru": "mc.NekoCloud.me"
+  },
+    "LOADING": {
+    "ru": "§cЗагружается..."
+  },
+  "SYSTEM_DISABLED_LORE": {
+    "ru": [
+      "§cДанная функция отключена"
+    ]
+  },
+  "UNKNOWN_SUBCOMMAND": {
+    "ru": "§cДанной команды не существует 0_о",
+    "en": "§cThis command doesn't exist 0_о"
+  },
+  "WAIT_PLS": {
+    "ru": "§cПодожди немножко...",
+    "en": "§cWait a little bit..."
+  }
+}

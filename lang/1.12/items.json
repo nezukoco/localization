@@ -1,0 +1,3189 @@
+{
+  "ITEM": {
+    "AIR.0": {
+      "ru": "Воздух",
+      "ua": "Повітря",
+      "en": "Air"
+    },
+    "STONE.0": {
+      "ru": "Камень",
+      "ua": "Камінь",
+      "en": "Stone"
+    },
+    "STONE.1": {
+      "ru": "Гранит",
+      "ua": "Граніт",
+      "en": "Granite"
+    },
+    "STONE.2": {
+      "ru": "Полированный гранит",
+      "ua": "Полірований граніт",
+      "en": "Polished Granite"
+    },
+    "STONE.3": {
+      "ru": "Диорит",
+      "ua": "Діорит",
+      "en": "Diorite"
+    },
+    "STONE.4": {
+      "ru": "Полированный диорит",
+      "ua": "Полірований діорит",
+      "en": "Polished Diorite"
+    },
+    "STONE.5": {
+      "ru": "Андезит",
+      "ua": "Андезит",
+      "en": "Andesite"
+    },
+    "STONE.6": {
+      "ru": "Полированный андезит",
+      "ua": "Полірований андезит",
+      "en": "Polished Andesite"
+    },
+    "GRASS.0": {
+      "ru": "Дёрн",
+      "ua": "Блок трави",
+      "en": "Grass Block"
+    },
+    "DIRT.0": {
+      "ru": "Земля",
+      "ua": "Ґрунт",
+      "en": "Dirt"
+    },
+    "DIRT.1": {
+      "ru": "Каменистая земля",
+      "ua": "Загрубілий ґрунт",
+      "en": "Coarse Dirt"
+    },
+    "DIRT.2": {
+      "ru": "Подзол",
+      "ua": "Підзол",
+      "en": "Podzol"
+    },
+    "COBBLESTONE.0": {
+      "ru": "Булыжник",
+      "ua": "Кругляк",
+      "en": "Cobblestone"
+    },
+    "WOOD.0": {
+      "ru": "Дубовые доски",
+      "ua": "Дубові дошки",
+      "en": "Oak Wood Planks"
+    },
+    "WOOD.1": {
+      "ru": "Еловые доски",
+      "ua": "Смерекові дошки",
+      "en": "Spruce Wood Planks"
+    },
+    "WOOD.2": {
+      "ru": "Берёзовые доски",
+      "ua": "Березові дошки",
+      "en": "Birch Wood Planks"
+    },
+    "WOOD.3": {
+      "ru": "Доски из тропического дерева",
+      "ua": "Дошки з тропічного дерева",
+      "en": "Jungle Wood Planks"
+    },
+    "WOOD.4": {
+      "ru": "Акациевые доски",
+      "ua": "Акацієві дошки",
+      "en": "Acacia Wood Planks"
+    },
+    "WOOD.5": {
+      "ru": "Доски из тёмного дуба",
+      "ua": "Дошки з темного дубу",
+      "en": "Dark Oak Wood Planks"
+    },
+    "SAPLING.0": {
+      "ru": "Саженец дуба",
+      "ua": "Садженець дубу",
+      "en": "Oak Sapling"
+    },
+    "SAPLING.1": {
+      "ru": "Еловый саженец",
+      "ua": "Садженець смереки",
+      "en": "Spruce Sapling"
+    },
+    "SAPLING.2": {
+      "ru": "Саженец берёзы",
+      "ua": "Садженець берези",
+      "en": "Birch Sapling"
+    },
+    "SAPLING.3": {
+      "ru": "Саженец тропического дерева",
+      "ua": "Паросток тропічного дерева",
+      "en": "Jungle Sapling"
+    },
+    "SAPLING.4": {
+      "ru": "Саженец акации",
+      "ua": "Саджанець акації",
+      "en": "Acacia Sapling"
+    },
+    "SAPLING.5": {
+      "ru": "Саженец тёмного дуба",
+      "ua": "Садженець темного дубу",
+      "en": "Dark Oak Sapling"
+    },
+    "BEDROCK.0": {
+      "ru": "Бедрок",
+      "ua": "Корінна порода",
+      "en": "Bedrock"
+    },
+    "SAND.0": {
+      "ru": "Песок",
+      "ua": "Пісок",
+      "en": "Sand"
+    },
+    "SAND.1": {
+      "ru": "Красный песок",
+      "ua": "Червоний пісок",
+      "en": "Red Sand"
+    },
+    "GRAVEL.0": {
+      "ru": "Гравий",
+      "ua": "Гравій",
+      "en": "Gravel"
+    },
+    "GOLD_ORE.0": {
+      "ru": "Золотая руда",
+      "ua": "Золота руда",
+      "en": "Gold Ore"
+    },
+    "IRON_ORE.0": {
+      "ru": "Железная руда",
+      "ua": "Залізна руда",
+      "en": "Iron Ore"
+    },
+    "COAL_ORE.0": {
+      "ru": "Каменный уголь",
+      "ua": "Вугільна руда",
+      "en": "Coal Ore"
+    },
+    "LOG.0": {
+      "ru": "Дуб",
+      "ua": "Дуб",
+      "en": "Oak Wood"
+    },
+    "LOG.1": {
+      "ru": "Ель",
+      "ua": "Смерека",
+      "en": "Spruce Wood"
+    },
+    "LOG.2": {
+      "ru": "Берёза",
+      "ua": "Береза",
+      "en": "Birch Wood"
+    },
+    "LOG.3": {
+      "ru": "Тропическое дерево",
+      "ua": "Тропічне дерево",
+      "en": "Jungle Wood"
+    },
+    "LOG.4": {
+      "ru": "Акация",
+      "ua": "Акація",
+      "en": "Acacia Wood"
+    },
+    "LOG.5": {
+      "ru": "Тёмный дуб",
+      "ua": "Темний дуб",
+      "en": "Dark Oak Wood"
+    },
+    "LEAVES.0": {
+      "ru": "Дубовые листья",
+      "ua": "Листя дубу",
+      "en": "Oak Leaves"
+    },
+    "LEAVES.1": {
+      "ru": "Хвоя",
+      "ua": "Листя смереки",
+      "en": "Spruce Leaves"
+    },
+    "LEAVES.2": {
+      "ru": "Берёзовые листья",
+      "ua": "Листя берези",
+      "en": "Birch Leaves"
+    },
+    "LEAVES.3": {
+      "ru": "Листья тропического дерева",
+      "ua": "Листя тропічного дерева",
+      "en": "Jungle Leaves"
+    },
+    "SPONGE.0": {
+      "ru": "Губка",
+      "ua": "Губка",
+      "en": "Sponge"
+    },
+    "SPONGE.1": {
+      "ru": "Мокрая губка",
+      "ua": "Мокра губка",
+      "en": "Wet Sponge"
+    },
+    "GLASS.0": {
+      "ru": "Стекло",
+      "ua": "Скло",
+      "en": "Glass"
+    },
+    "LAPIS_ORE.0": {
+      "ru": "Лазуритовая руда",
+      "ua": "Лазуритова руда",
+      "en": "Lapis Lazuli Ore"
+    },
+    "LAPIS_BLOCK.0": {
+      "ru": "Лазуритовый блок",
+      "ua": "Блок лазуриту",
+      "en": "Lapis Lazuli Block"
+    },
+    "DISPENSER.0": {
+      "ru": "Раздатчик",
+      "ua": "Роздавач",
+      "en": "Dispenser"
+    },
+    "SANDSTONE.0": {
+      "ru": "Песчаник",
+      "ua": "Пісковик",
+      "en": "Sandstone"
+    },
+    "SANDSTONE.1": {
+      "ru": "Резной песчаник",
+      "ua": "Точений пісковик",
+      "en": "Chiseled Sandstone"
+    },
+    "SANDSTONE.2": {
+      "ru": "Гладкий песчаник",
+      "ua": "Гладкий пісковик",
+      "en": "Smooth Sandstone"
+    },
+    "NOTE_BLOCK.0": {
+      "ru": "Нотный блок",
+      "ua": "Нотний блок",
+      "en": "Note Block"
+    },
+    "POWERED_RAIL.0": {
+      "ru": "Энергорельсы",
+      "ua": "Електризовані рейки",
+      "en": "Powered Rail"
+    },
+    "DETECTOR_RAIL.0": {
+      "ru": "Рельсы с датчиком",
+      "ua": "Детекторні рейки",
+      "en": "Detector Rail"
+    },
+    "PISTON_STICKY_BASE.0": {
+      "ru": "Липкий поршень",
+      "ua": "Липкий поршень",
+      "en": "Sticky Piston"
+    },
+    "WEB.0": {
+      "ru": "Паутина",
+      "ua": "Павутиння",
+      "en": "Cobweb"
+    },
+    "LONG_GRASS.0": {
+      "ru": "Куст",
+      "ua": "Кущ",
+      "en": "Shrub"
+    },
+    "LONG_GRASS.1": {
+      "ru": "Трава",
+      "ua": "Трава",
+      "en": "Grass"
+    },
+    "LONG_GRASS.2": {
+      "ru": "Папоротник",
+      "ua": "Папороть",
+      "en": "Fern"
+    },
+    "LONG_GRASS.3": {
+      "ru": "Трава",
+      "ua": "Трава",
+      "en": "Grass"
+    },
+    "DEAD_BUSH.0": {
+      "ru": "Мёртвый куст",
+      "ua": "Мертвий кущ",
+      "en": "Dead Bush"
+    },
+    "PISTON_BASE.0": {
+      "ru": "Поршень",
+      "ua": "Поршень",
+      "en": "Piston"
+    },
+    "WOOL.0": {
+      "ru": "Белая шерсть",
+      "ua": "Біла шерсть",
+      "en": "White Wool"
+    },
+    "WOOL.1": {
+      "ru": "Оранжевая шерсть",
+      "ua": "Помаранчева вовна",
+      "en": "Orange Wool"
+    },
+    "WOOL.2": {
+      "ru": "Пурпурная шерсть",
+      "ua": "Пурпурова вовна",
+      "en": "Magenta Wool"
+    },
+    "WOOL.3": {
+      "ru": "Голубая шерсть",
+      "ua": "Блакитна вовна",
+      "en": "Light Blue Wool"
+    },
+    "WOOL.4": {
+      "ru": "Жёлтая шерсть",
+      "ua": "Жовта вовна",
+      "en": "Yellow Wool"
+    },
+    "WOOL.5": {
+      "ru": "Лаймовая шерсть",
+      "ua": "Лаймова вовна",
+      "en": "Lime Wool"
+    },
+    "WOOL.6": {
+      "ru": "Розовая шерсть",
+      "ua": "Рожева вовна",
+      "en": "Pink Wool"
+    },
+    "WOOL.7": {
+      "ru": "Серая шерсть",
+      "ua": "Сіра вовна",
+      "en": "Gray Wool"
+    },
+    "WOOL.8": {
+      "ru": "Светло-серая шерсть",
+      "ua": "Світло-сіра вовна",
+      "en": "Light Gray Wool"
+    },
+    "WOOL.9": {
+      "ru": "Бирюзовая шерсть",
+      "ua": "Бірюзова вовна",
+      "en": "Cyan Wool"
+    },
+    "WOOL.10": {
+      "ru": "Фиолетовая шерсть",
+      "ua": "Фіолетова вовна",
+      "en": "Purple Wool"
+    },
+    "WOOL.11": {
+      "ru": "Синяя шерсть",
+      "ua": "Синя вовна",
+      "en": "Blue Wool"
+    },
+    "WOOL.12": {
+      "ru": "Коричневая шерсть",
+      "ua": "Коричнева вовна",
+      "en": "Brown Wool"
+    },
+    "WOOL.13": {
+      "ru": "Зелёная шерсть",
+      "ua": "Зелена вовна",
+      "en": "Green Wool"
+    },
+    "WOOL.14": {
+      "ru": "Красная шерсть",
+      "ua": "Червона вовна",
+      "en": "Red Wool"
+    },
+    "WOOL.15": {
+      "ru": "Чёрная шерсть",
+      "ua": "Чорна вовна",
+      "en": "Black Wool"
+    },
+    "YELLOW_FLOWER.0": {
+      "ru": "Одуванчик",
+      "ua": "Кульбаба",
+      "en": "Dandelion"
+    },
+    "RED_ROSE.0": {
+      "ru": "Мак",
+      "ua": "Мак",
+      "en": "Poppy"
+    },
+    "RED_ROSE.1": {
+      "ru": "Синяя орхидея",
+      "ua": "Блакитна орхідея",
+      "en": "Blue Orchid"
+    },
+    "RED_ROSE.2": {
+      "ru": "Лук-батун",
+      "ua": "Різанець",
+      "en": "Allium"
+    },
+    "RED_ROSE.3": {
+      "ru": "Голубой василёк",
+      "ua": "Черемша",
+      "en": "Azure Bluet"
+    },
+    "RED_ROSE.4": {
+      "ru": "Красный тюльпан",
+      "ua": "Червоний тюльпан",
+      "en": "Red Tulip"
+    },
+    "RED_ROSE.5": {
+      "ru": "Оранжевый тюльпан",
+      "ua": "Помаранчевий тюльпан",
+      "en": "Orange Tulip"
+    },
+    "RED_ROSE.6": {
+      "ru": "Белый тюльпан",
+      "ua": "Білий тюльпан",
+      "en": "White Tulip"
+    },
+    "RED_ROSE.7": {
+      "ru": "Розовый тюльпан",
+      "ua": "Рожевий тюльпан",
+      "en": "Pink Tulip"
+    },
+    "RED_ROSE.8": {
+      "ru": "Ромашка",
+      "ua": "Ромашка",
+      "en": "Oxeye Daisy"
+    },
+    "BROWN_MUSHROOM.0": {
+      "ru": "Гриб",
+      "ua": "Гриб",
+      "en": "Mushroom"
+    },
+    "RED_MUSHROOM.0": {
+      "ru": "Гриб",
+      "ua": "Гриб",
+      "en": "Mushroom"
+    },
+    "GOLD_BLOCK.0": {
+      "ru": "Золотой блок",
+      "ua": "Золотий блок",
+      "en": "Block of Gold"
+    },
+    "IRON_BLOCK.0": {
+      "ru": "Железный блок",
+      "ua": "Залізний блок",
+      "en": "Block of Iron"
+    },
+    "STEP.0": {
+      "ru": "Каменная плита",
+      "ua": "Кам\u0027яна плита",
+      "en": "Stone Slab"
+    },
+    "STEP.1": {
+      "ru": "Песчаниковая плита",
+      "ua": "Плита з пісковику",
+      "en": "Sandstone Slab"
+    },
+    "STEP.2": {
+      "ru": "Деревянная плита",
+      "ua": "Дерев\u0027яна плита",
+      "en": "Wooden Slab"
+    },
+    "STEP.3": {
+      "ru": "Булыжная плита",
+      "ua": "Плита з кругляку",
+      "en": "Cobblestone Slab"
+    },
+    "STEP.4": {
+      "ru": "Кирпичная плита",
+      "ua": "Цегляна плита",
+      "en": "Bricks Slab"
+    },
+    "STEP.5": {
+      "ru": "Плита из каменных кирпичей",
+      "ua": "Плита з кам\u0027яної цегли",
+      "en": "Stone Bricks Slab"
+    },
+    "STEP.6": {
+      "ru": "Незеритовая плита",
+      "ua": "Плита з пекельної цегли",
+      "en": "Nether Brick Slab"
+    },
+    "STEP.7": {
+      "ru": "Кварцевая плита",
+      "ua": "Плита з кварцу",
+      "en": "Quartz Slab"
+    },
+    "BRICK.0": {
+      "ru": "Кирпичи",
+      "ua": "Цегляний блок",
+      "en": "Bricks"
+    },
+    "TNT.0": {
+      "ru": "Динамит",
+      "ua": "Динаміт",
+      "en": "TNT"
+    },
+    "BOOKSHELF.0": {
+      "ru": "Книжная полка",
+      "ua": "Книжкова полиця",
+      "en": "Bookshelf"
+    },
+    "MOSSY_COBBLESTONE.0": {
+      "ru": "Замшелый булыжник",
+      "ua": "Моховитий кругляк",
+      "en": "Moss Stone"
+    },
+    "OBSIDIAN.0": {
+      "ru": "Обсидиан",
+      "ua": "Обсидіан",
+      "en": "Obsidian"
+    },
+    "TORCH.0": {
+      "ru": "Факел",
+      "ua": "Факел",
+      "en": "Torch"
+    },
+    "MOB_SPAWNER.0": {
+      "ru": "Рассадник монстров",
+      "ua": "Спаунер монстрів",
+      "en": "Monster Spawner"
+    },
+    "WOOD_STAIRS.0": {
+      "ru": "Дубовые ступеньки",
+      "ua": "Дубові сходи",
+      "en": "Oak Wood Stairs"
+    },
+    "CHEST.0": {
+      "ru": "Сундук",
+      "ua": "Скриня",
+      "en": "Chest"
+    },
+    "DIAMOND_ORE.0": {
+      "ru": "Алмазная руда",
+      "ua": "Діамантова руда",
+      "en": "Diamond Ore"
+    },
+    "DIAMOND_BLOCK.0": {
+      "ru": "Алмазный блок",
+      "ua": "Діамантовий блок",
+      "en": "Block of Diamond"
+    },
+    "WORKBENCH.0": {
+      "ru": "Верстак",
+      "ua": "Верстак",
+      "en": "Crafting Table"
+    },
+    "SOIL.0": {
+      "ru": "Пашня",
+      "ua": "Рілля",
+      "en": "Farmland"
+    },
+    "FURNACE.0": {
+      "ru": "Печь",
+      "ua": "Піч",
+      "en": "Furnace"
+    },
+    "LADDER.0": {
+      "ru": "Лестница",
+      "ua": "Драбина",
+      "en": "Ladder"
+    },
+    "RAILS.0": {
+      "ru": "Рельсы",
+      "ua": "Колія",
+      "en": "Rail"
+    },
+    "COBBLESTONE_STAIRS.0": {
+      "ru": "Булыжные ступеньки",
+      "ua": "Сходи з кругляку",
+      "en": "Cobblestone Stairs"
+    },
+    "LEVER.0": {
+      "ru": "Рычаг",
+      "ua": "Важіль",
+      "en": "Lever"
+    },
+    "STONE_PLATE.0": {
+      "ru": "Каменная нажимная плита",
+      "ua": "Кам’яна натискна плита",
+      "en": "Stone Pressure Plate"
+    },
+    "WOOD_PLATE.0": {
+      "ru": "Деревянная нажимная плита",
+      "ua": "Дерев’яна натискна плита",
+      "en": "Wooden Pressure Plate"
+    },
+    "REDSTONE_ORE.0": {
+      "ru": "Редстоуновая руда",
+      "ua": "Руда редстоуну",
+      "en": "Redstone Ore"
+    },
+    "REDSTONE_TORCH_ON.0": {
+      "ru": "Редстоуновый факел",
+      "ua": "Факел з редстоуну",
+      "en": "Redstone Torch"
+    },
+    "STONE_BUTTON.0": {
+      "ru": "Кнопка",
+      "ua": "Кнопка",
+      "en": "Button"
+    },
+    "SNOW.0": {
+      "ru": "Снег",
+      "ua": "Сніг",
+      "en": "Snow"
+    },
+    "ICE.0": {
+      "ru": "Лёд",
+      "ua": "Лід",
+      "en": "Ice"
+    },
+    "SNOW_BLOCK.0": {
+      "ru": "Снег",
+      "ua": "Сніг",
+      "en": "Snow"
+    },
+    "CACTUS.0": {
+      "ru": "Кактус",
+      "ua": "Кактус",
+      "en": "Cactus"
+    },
+    "CLAY.0": {
+      "ru": "Глина",
+      "ua": "Блок глини",
+      "en": "Clay"
+    },
+    "JUKEBOX.0": {
+      "ru": "Проигрыватель",
+      "ua": "Програвач",
+      "en": "Jukebox"
+    },
+    "FENCE.0": {
+      "ru": "Дубовый забор",
+      "ua": "Дубовий паркан",
+      "en": "Oak Fence"
+    },
+    "PUMPKIN.0": {
+      "ru": "Тыква",
+      "ua": "Гарбуз",
+      "en": "Pumpkin"
+    },
+    "NETHERRACK.0": {
+      "ru": "Незерит",
+      "ua": "Пекельний камінь",
+      "en": "Netherrack"
+    },
+    "SOUL_SAND.0": {
+      "ru": "Песок душ",
+      "ua": "Пісок душ",
+      "en": "Soul Sand"
+    },
+    "GLOWSTONE.0": {
+      "ru": "Светокамень",
+      "ua": "Світлокамінь",
+      "en": "Glowstone"
+    },
+    "JACK_O_LANTERN.0": {
+      "ru": "Светильник Джека",
+      "ua": "Джек-Ліхтар",
+      "en": "Jack o\u0027Lantern"
+    },
+    "STAINED_GLASS.0": {
+      "ru": "Белое стекло",
+      "ua": "Біле скло",
+      "en": "White Stained Glass"
+    },
+    "STAINED_GLASS.1": {
+      "ru": "Оранжевое стекло",
+      "ua": "Помаранчеве скло",
+      "en": "Orange Stained Glass"
+    },
+    "STAINED_GLASS.2": {
+      "ru": "Пурпурное стекло",
+      "ua": "Пурпурове скло",
+      "en": "Magenta Stained Glass"
+    },
+    "STAINED_GLASS.3": {
+      "ru": "Голубое стекло",
+      "ua": "Блакитне скло",
+      "en": "Light Blue Stained Glass"
+    },
+    "STAINED_GLASS.4": {
+      "ru": "Жёлтое стекло",
+      "ua": "Жовте скло",
+      "en": "Yellow Stained Glass"
+    },
+    "STAINED_GLASS.5": {
+      "ru": "Лаймовое стекло",
+      "ua": "Лаймове скло",
+      "en": "Lime Stained Glass"
+    },
+    "STAINED_GLASS.6": {
+      "ru": "Розовое стекло",
+      "ua": "Рожеве скло",
+      "en": "Pink Stained Glass"
+    },
+    "STAINED_GLASS.7": {
+      "ru": "Серое стекло",
+      "ua": "Сіре скло",
+      "en": "Gray Stained Glass"
+    },
+    "STAINED_GLASS.8": {
+      "ru": "Светло-серое стекло",
+      "ua": "Світло-сіре скло",
+      "en": "Light Gray Stained Glass"
+    },
+    "STAINED_GLASS.9": {
+      "ru": "Бирюзовое стекло",
+      "ua": "Бірюзове скло",
+      "en": "Cyan Stained Glass"
+    },
+    "STAINED_GLASS.10": {
+      "ru": "Фиолетовое стекло",
+      "ua": "Фіолетове скло",
+      "en": "Purple Stained Glass"
+    },
+    "STAINED_GLASS.11": {
+      "ru": "Синее стекло",
+      "ua": "Синє скло",
+      "en": "Blue Stained Glass"
+    },
+    "STAINED_GLASS.12": {
+      "ru": "Коричневое стекло",
+      "ua": "Коричневе скло",
+      "en": "Brown Stained Glass"
+    },
+    "STAINED_GLASS.13": {
+      "ru": "Зелёное стекло",
+      "ua": "Зелене скло",
+      "en": "Green Stained Glass"
+    },
+    "STAINED_GLASS.14": {
+      "ru": "Красное стекло",
+      "ua": "Червоне скло",
+      "en": "Red Stained Glass"
+    },
+    "STAINED_GLASS.15": {
+      "ru": "Чёрное стекло",
+      "ua": "Чорне скло",
+      "en": "Black Stained Glass"
+    },
+    "TRAP_DOOR.0": {
+      "ru": "Люк",
+      "ua": "Дерев\u0027яний люк",
+      "en": "Wooden Trapdoor"
+    },
+    "MONSTER_EGGS.0": {
+      "ru": "Камень с монстрами",
+      "ua": "Камінь із лусківницями",
+      "en": "Stone Monster Egg"
+    },
+    "MONSTER_EGGS.1": {
+      "ru": "Булыжник с монстрами",
+      "ua": "Кругляк із лусківницями",
+      "en": "Cobblestone Monster Egg"
+    },
+    "MONSTER_EGGS.2": {
+      "ru": "Каменный кирпич с монстрами",
+      "ua": "Кам\u0027яна цегла із лусківницями",
+      "en": "Stone Brick Monster Egg"
+    },
+    "MONSTER_EGGS.3": {
+      "ru": "Замшелый каменный кирпич с монстрами",
+      "ua": "Моховита кам\u0027яна цегла з лусківницями",
+      "en": "Mossy Stone Brick Monster Egg"
+    },
+    "MONSTER_EGGS.4": {
+      "ru": "Потрескавшийся каменный кирпич с монстрами",
+      "ua": "Тріснута кам\u0027яна цегла з лусківницями",
+      "en": "Cracked Stone Brick Monster Egg"
+    },
+    "MONSTER_EGGS.5": {
+      "ru": "Резной каменный кирпич с монстрами",
+      "ua": "Точена кам\u0027яна цегла з лусківницями",
+      "en": "Chiseled Stone Brick Monster Egg"
+    },
+    "SMOOTH_BRICK.0": {
+      "ru": "Каменные кирпичи",
+      "ua": "Кам\u0027яна цегла",
+      "en": "Stone Bricks"
+    },
+    "SMOOTH_BRICK.1": {
+      "ru": "Замшелые каменные кирпичи",
+      "ua": "Моховита кам\u0027яна цегла",
+      "en": "Mossy Stone Bricks"
+    },
+    "SMOOTH_BRICK.2": {
+      "ru": "Потрескавшиеся каменные кирпичи",
+      "ua": "Тріснута кам\u0027яна цегла",
+      "en": "Cracked Stone Bricks"
+    },
+    "SMOOTH_BRICK.3": {
+      "ru": "Резные каменные кирпичи",
+      "ua": "Точена кам\u0027яна цегла",
+      "en": "Chiseled Stone Bricks"
+    },
+    "HUGE_MUSHROOM_1.0": {
+      "ru": "Гриб",
+      "ua": "Гриб",
+      "en": "Mushroom"
+    },
+    "HUGE_MUSHROOM_2.0": {
+      "ru": "Гриб",
+      "ua": "Гриб",
+      "en": "Mushroom"
+    },
+    "IRON_FENCE.0": {
+      "ru": "Железные прутья",
+      "ua": "Залізні ґрати",
+      "en": "Iron Bars"
+    },
+    "THIN_GLASS.0": {
+      "ru": "Стеклянная панель",
+      "ua": "Скляна панель",
+      "en": "Glass Pane"
+    },
+    "MELON_BLOCK.0": {
+      "ru": "Арбуз",
+      "ua": "Кавун",
+      "en": "Melon"
+    },
+    "VINE.0": {
+      "ru": "Лианы",
+      "ua": "Лоза",
+      "en": "Vines"
+    },
+    "FENCE_GATE.0": {
+      "ru": "Дубовая калитка",
+      "ua": "Дубова хвіртка",
+      "en": "Oak Fence Gate"
+    },
+    "BRICK_STAIRS.0": {
+      "ru": "Кирпичные ступеньки",
+      "ua": "Цегляні сходи",
+      "en": "Brick Stairs"
+    },
+    "SMOOTH_STAIRS.0": {
+      "ru": "Ступеньки из каменного кирпича",
+      "ua": "Сходи з кам\u0027яної цегли",
+      "en": "Stone Brick Stairs"
+    },
+    "MYCEL.0": {
+      "ru": "Мицелий",
+      "ua": "Грибниця",
+      "en": "Mycelium"
+    },
+    "WATER_LILY.0": {
+      "ru": "Кувшинка",
+      "ua": "Латаття",
+      "en": "Lily Pad"
+    },
+    "NETHER_BRICK.0": {
+      "ru": "Незеритовые кирпичи",
+      "ua": "Пекельна цегла",
+      "en": "Nether Brick"
+    },
+    "NETHER_FENCE.0": {
+      "ru": "Незеритовый забор",
+      "ua": "Паркан з пекельної цегли",
+      "en": "Nether Brick Fence"
+    },
+    "NETHER_BRICK_STAIRS.0": {
+      "ru": "Незеритовые ступеньки",
+      "ua": "Сходи з пекельної цегли",
+      "en": "Nether Brick Stairs"
+    },
+    "ENCHANTMENT_TABLE.0": {
+      "ru": "Чародейский стол",
+      "ua": "Стіл зачарувань",
+      "en": "Enchantment Table"
+    },
+    "ENDER_PORTAL_FRAME.0": {
+      "ru": "Портал в Энд",
+      "ua": "Портал Енду",
+      "en": "End Portal"
+    },
+    "ENDER_STONE.0": {
+      "ru": "Эндерняк",
+      "ua": "Камінь Енду",
+      "en": "End Stone"
+    },
+    "DRAGON_EGG.0": {
+      "ru": "Яйцо дракона",
+      "ua": "Яйце дракона",
+      "en": "Dragon Egg"
+    },
+    "REDSTONE_LAMP_OFF.0": {
+      "ru": "Редстоуновый фонарь",
+      "ua": "Лампа",
+      "en": "Redstone Lamp"
+    },
+    "WOOD_STEP.0": {
+      "ru": "Дубовая плита",
+      "ua": "Дубова плита",
+      "en": "Oak Wood Slab"
+    },
+    "WOOD_STEP.1": {
+      "ru": "Еловая плита",
+      "ua": "Смерекова плита",
+      "en": "Spruce Wood Slab"
+    },
+    "WOOD_STEP.2": {
+      "ru": "Берёзовая плита",
+      "ua": "Березова плита",
+      "en": "Birch Wood Slab"
+    },
+    "WOOD_STEP.3": {
+      "ru": "Плита из тропического дерева",
+      "ua": "Плита з тропічного дерева",
+      "en": "Jungle Wood Slab"
+    },
+    "WOOD_STEP.4": {
+      "ru": "Акациевая плита",
+      "ua": "Акацієва плита",
+      "en": "Acacia Wood Slab"
+    },
+    "WOOD_STEP.5": {
+      "ru": "Плита из тёмного дуба",
+      "ua": "Плита з темного дубу",
+      "en": "Dark Oak Wood Slab"
+    },
+    "SANDSTONE_STAIRS.0": {
+      "ru": "Песчаниковые ступеньки",
+      "ua": "Сходи з пісковику",
+      "en": "Sandstone Stairs"
+    },
+    "EMERALD_ORE.0": {
+      "ru": "Изумрудная руда",
+      "ua": "Смарагдова руда",
+      "en": "Emerald Ore"
+    },
+    "ENDER_CHEST.0": {
+      "ru": "Эндер-сундук",
+      "ua": "Ендер-скриня",
+      "en": "Ender Chest"
+    },
+    "TRIPWIRE_HOOK.0": {
+      "ru": "Крюк",
+      "ua": "Гак для розтяжки",
+      "en": "Tripwire Hook"
+    },
+    "EMERALD_BLOCK.0": {
+      "ru": "Изумрудный блок",
+      "ua": "Блок смарагду",
+      "en": "Block of Emerald"
+    },
+    "SPRUCE_WOOD_STAIRS.0": {
+      "ru": "Еловые ступеньки",
+      "ua": "Смерекові сходи",
+      "en": "Spruce Wood Stairs"
+    },
+    "BIRCH_WOOD_STAIRS.0": {
+      "ru": "Берёзовые ступеньки",
+      "ua": "Березові сходи",
+      "en": "Birch Wood Stairs"
+    },
+    "JUNGLE_WOOD_STAIRS.0": {
+      "ru": "Ступеньки из тропического дерева",
+      "ua": "Сходи з тропічного дерева",
+      "en": "Jungle Wood Stairs"
+    },
+    "COMMAND.0": {
+      "ru": "Командный блок",
+      "ua": "Командний блок",
+      "en": "Command Block"
+    },
+    "BEACON.0": {
+      "ru": "Маяк",
+      "ua": "Маяк",
+      "en": "Beacon"
+    },
+    "COBBLE_WALL.0": {
+      "ru": "Булыжная ограда",
+      "ua": "Стінка з кругляку",
+      "en": "Cobblestone Wall"
+    },
+    "COBBLE_WALL.1": {
+      "ru": "Замшелая булыжная ограда",
+      "ua": "Стінка з моховитого кругляку",
+      "en": "Mossy Cobblestone Wall"
+    },
+    "WOOD_BUTTON.0": {
+      "ru": "Кнопка",
+      "ua": "Кнопка",
+      "en": "Button"
+    },
+    "ANVIL.0": {
+      "ru": "Наковальня",
+      "ua": "Ковадло",
+      "en": "Anvil"
+    },
+    "ANVIL.1": {
+      "ru": "Повреждённая наковальня",
+      "ua": "Трохи пошкоджене ковадло",
+      "en": "Slightly Damaged Anvil"
+    },
+    "ANVIL.2": {
+      "ru": "Сильно повреждённая наковальня",
+      "ua": "Сильно пошкоджене ковадло",
+      "en": "Very Damaged Anvil"
+    },
+    "TRAPPED_CHEST.0": {
+      "ru": "Сундук-ловушка",
+      "ua": "Скриня-пастка",
+      "en": "Trapped Chest"
+    },
+    "GOLD_PLATE.0": {
+      "ru": "Весовая пластина",
+      "ua": "Натискна плита (легка)",
+      "en": "Weighted Pressure Plate (Light)"
+    },
+    "IRON_PLATE.0": {
+      "ru": "Большегрузная весовая пластина",
+      "ua": "Натискна плита (важка)",
+      "en": "Weighted Pressure Plate (Heavy)"
+    },
+    "DAYLIGHT_DETECTOR.0": {
+      "ru": "Датчик дневного света",
+      "ua": "Детектор денного світла",
+      "en": "Daylight Sensor"
+    },
+    "REDSTONE_BLOCK.0": {
+      "ru": "Редстоуновый блок",
+      "ua": "Блок редстоуну",
+      "en": "Block of Redstone"
+    },
+    "QUARTZ_ORE.0": {
+      "ru": "Незер-кварцевая руда",
+      "ua": "Кварцова руда",
+      "en": "Nether Quartz Ore"
+    },
+    "HOPPER.0": {
+      "ru": "Воронка",
+      "ua": "Воронка",
+      "en": "Hopper"
+    },
+    "QUARTZ_BLOCK.0": {
+      "ru": "Кварцевый блок",
+      "ua": "Блок кварцу",
+      "en": "Block of Quartz"
+    },
+    "QUARTZ_BLOCK.1": {
+      "ru": "Резной кварцевый блок",
+      "ua": "Точений кварцовий блок",
+      "en": "Chiseled Quartz Block"
+    },
+    "QUARTZ_BLOCK.2": {
+      "ru": "Кварцевая колонна ",
+      "ua": "Блок кварцової колони",
+      "en": "Pillar Quartz Block"
+    },
+    "QUARTZ_STAIRS.0": {
+      "ru": "Кварцевые ступеньки",
+      "ua": "Кварцові сходи",
+      "en": "Quartz Stairs"
+    },
+    "ACTIVATOR_RAIL.0": {
+      "ru": "Активирующие рельсы",
+      "ua": "Активуючі рейки",
+      "en": "Activator Rail"
+    },
+    "DROPPER.0": {
+      "ru": "Выбрасыватель",
+      "ua": "Викидач",
+      "en": "Dropper"
+    },
+    "STAINED_CLAY.0": {
+      "ru": "Белая керамика",
+      "ua": "Біла кераміка",
+      "en": "White Terracotta"
+    },
+    "STAINED_CLAY.1": {
+      "ru": "Оранжевая керамика",
+      "ua": "Помаранчева кераміка",
+      "en": "Orange Terracotta"
+    },
+    "STAINED_CLAY.2": {
+      "ru": "Пурпурная керамика",
+      "ua": "Пурпурова кераміка",
+      "en": "Magenta Terracotta"
+    },
+    "STAINED_CLAY.3": {
+      "ru": "Голубая керамика",
+      "ua": "Світло-синя кераміка",
+      "en": "Light Blue Terracotta"
+    },
+    "STAINED_CLAY.4": {
+      "ru": "Жёлтая керамика",
+      "ua": "Жовта кераміка",
+      "en": "Yellow Terracotta"
+    },
+    "STAINED_CLAY.5": {
+      "ru": "Лаймовая керамика",
+      "ua": "Лаймова кераміка",
+      "en": "Lime Terracotta"
+    },
+    "STAINED_CLAY.6": {
+      "ru": "Розовая керамика",
+      "ua": "Рожева кераміка",
+      "en": "Pink Terracotta"
+    },
+    "STAINED_CLAY.7": {
+      "ru": "Серая керамика",
+      "ua": "Сіра кераміка",
+      "en": "Gray Terracotta"
+    },
+    "STAINED_CLAY.8": {
+      "ru": "Светло-серая керамика",
+      "ua": "Світло-сіра кераміка",
+      "en": "Light Gray Terracotta"
+    },
+    "STAINED_CLAY.9": {
+      "ru": "Бирюзовая керамика",
+      "ua": "Бірюзова кераміка",
+      "en": "Cyan Terracotta"
+    },
+    "STAINED_CLAY.10": {
+      "ru": "Фиолетовая керамика",
+      "ua": "Фіолетова кераміка",
+      "en": "Purple Terracotta"
+    },
+    "STAINED_CLAY.11": {
+      "ru": "Синяя керамика",
+      "ua": "Синя кераміка",
+      "en": "Blue Terracotta"
+    },
+    "STAINED_CLAY.12": {
+      "ru": "Коричневая керамика",
+      "ua": "Коричнева кераміка",
+      "en": "Brown Terracotta"
+    },
+    "STAINED_CLAY.13": {
+      "ru": "Зелёная керамика",
+      "ua": "Зелена кераміка",
+      "en": "Green Terracotta"
+    },
+    "STAINED_CLAY.14": {
+      "ru": "Красная керамика",
+      "ua": "Червона кераміка",
+      "en": "Red Terracotta"
+    },
+    "STAINED_CLAY.15": {
+      "ru": "Чёрная керамика",
+      "ua": "Чорна кераміка",
+      "en": "Black Terracotta"
+    },
+    "STAINED_GLASS_PANE.0": {
+      "ru": "Белая стеклянная панель",
+      "ua": "Біла скляна панель",
+      "en": "White Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.1": {
+      "ru": "Оранжевая стеклянная панель",
+      "ua": "Помаранчева скляна панель",
+      "en": "Orange Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.2": {
+      "ru": "Пурпурная стеклянная панель",
+      "ua": "Пурпурова скляна панель",
+      "en": "Magenta Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.3": {
+      "ru": "Голубая стеклянная панель",
+      "ua": "Блакитна скляна панель",
+      "en": "Light Blue Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.4": {
+      "ru": "Жёлтая стеклянная панель",
+      "ua": "Жовта скляна панель",
+      "en": "Yellow Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.5": {
+      "ru": "Лаймовая стеклянная панель",
+      "ua": "Лаймова скляна панель",
+      "en": "Lime Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.6": {
+      "ru": "Розовая стеклянная панель",
+      "ua": "Рожева скляна панель",
+      "en": "Pink Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.7": {
+      "ru": "Серая стеклянная панель",
+      "ua": "Сіра скляна панель",
+      "en": "Gray Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.8": {
+      "ru": "Светло-серая стеклянная панель",
+      "ua": "Світло-сіра скляна панель",
+      "en": "Light Gray Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.9": {
+      "ru": "Бирюзовая стеклянная панель",
+      "ua": "Бірюзова скляна панель",
+      "en": "Cyan Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.10": {
+      "ru": "Фиолетовая стеклянная панель",
+      "ua": "Фіолетова скляна панель",
+      "en": "Purple Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.11": {
+      "ru": "Синяя стеклянная панель",
+      "ua": "Синя скляна панель",
+      "en": "Blue Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.12": {
+      "ru": "Коричневая стеклянная панель",
+      "ua": "Коричнева скляна панель",
+      "en": "Brown Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.13": {
+      "ru": "Зелёная стеклянная панель",
+      "ua": "Зелена скляна панель",
+      "en": "Green Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.14": {
+      "ru": "Красная стеклянная панель",
+      "ua": "Червона скляна панель",
+      "en": "Red Stained Glass Pane"
+    },
+    "STAINED_GLASS_PANE.15": {
+      "ru": "Чёрная стеклянная панель",
+      "ua": "Чорна скляна панель",
+      "en": "Black Stained Glass Pane"
+    },
+    "LEAVES_2.0": {
+      "ru": "Листья акации",
+      "ua": "Акацієве листя",
+      "en": "Acacia Leaves"
+    },
+    "LEAVES_2.1": {
+      "ru": "Листья тёмного дуба",
+      "ua": "Листя темного дубу",
+      "en": "Dark Oak Leaves"
+    },
+    "LEAVES_2.2": {
+      "ru": "Дубовые листья",
+      "ua": "Листя дубу",
+      "en": "Oak Leaves"
+    },
+    "LOG_2.0": {
+      "ru": "Акация",
+      "ua": "Акація",
+      "en": "Acacia Wood"
+    },
+    "LOG_2.1": {
+      "ru": "Тёмный дуб",
+      "ua": "Темний дуб",
+      "en": "Dark Oak Wood"
+    },
+    "LOG_2.2": {
+      "ru": "Дуб",
+      "ua": "Дуб",
+      "en": "Oak Wood"
+    },
+    "ACACIA_STAIRS.0": {
+      "ru": "Акациевые ступеньки",
+      "ua": "Акацієві сходи",
+      "en": "Acacia Wood Stairs"
+    },
+    "DARK_OAK_STAIRS.0": {
+      "ru": "Ступеньки из тёмного дуба",
+      "ua": "Сходи з темного дубу",
+      "en": "Dark Oak Wood Stairs"
+    },
+    "SLIME_BLOCK.0": {
+      "ru": "Блок слизи",
+      "ua": "Блок слизу",
+      "en": "Slime Block"
+    },
+    "BARRIER.0": {
+      "ru": "Барьер",
+      "ua": "Бар\u0027єр",
+      "en": "Barrier"
+    },
+    "IRON_TRAPDOOR.0": {
+      "ru": "Железный люк",
+      "ua": "Залізний люк",
+      "en": "Iron Trapdoor"
+    },
+    "PRISMARINE.0": {
+      "ru": "Призмарин",
+      "ua": "Призмарин",
+      "en": "Prismarine"
+    },
+    "PRISMARINE.1": {
+      "ru": "Призмариновые кирпичи",
+      "ua": "Призмаринова цегла",
+      "en": "Prismarine Bricks"
+    },
+    "PRISMARINE.2": {
+      "ru": "Тёмный призмарин",
+      "ua": "Темний призмарин",
+      "en": "Dark Prismarine"
+    },
+    "SEA_LANTERN.0": {
+      "ru": "Морской фонарь",
+      "ua": "Морський ліхтар",
+      "en": "Sea Lantern"
+    },
+    "HAY_BLOCK.0": {
+      "ru": "Сноп сена",
+      "ua": "Копиця сіна",
+      "en": "Hay Bale"
+    },
+    "CARPET.0": {
+      "ru": "Белый ковёр",
+      "ua": "Білий килим",
+      "en": "White Carpet"
+    },
+    "CARPET.1": {
+      "ru": "Оранжевый ковёр",
+      "ua": "Помаранчевий килим",
+      "en": "Orange Carpet"
+    },
+    "CARPET.2": {
+      "ru": "Пурпурный ковёр",
+      "ua": "Пурпуровий килим",
+      "en": "Magenta Carpet"
+    },
+    "CARPET.3": {
+      "ru": "Голубой ковёр",
+      "ua": "Блакитний килим",
+      "en": "Light Blue Carpet"
+    },
+    "CARPET.4": {
+      "ru": "Жёлтый ковёр",
+      "ua": "Жовтий килим",
+      "en": "Yellow Carpet"
+    },
+    "CARPET.5": {
+      "ru": "Лаймовый ковёр",
+      "ua": "Лаймовий килим",
+      "en": "Lime Carpet"
+    },
+    "CARPET.6": {
+      "ru": "Розовый ковёр",
+      "ua": "Рожевий килим",
+      "en": "Pink Carpet"
+    },
+    "CARPET.7": {
+      "ru": "Серый ковёр",
+      "ua": "Сірий килим",
+      "en": "Gray Carpet"
+    },
+    "CARPET.8": {
+      "ru": "Светло-серый ковёр",
+      "ua": "Світло-сірий килим",
+      "en": "Light Gray Carpet"
+    },
+    "CARPET.9": {
+      "ru": "Бирюзовый ковёр",
+      "ua": "Бірюзовий килим",
+      "en": "Cyan Carpet"
+    },
+    "CARPET.10": {
+      "ru": "Фиолетовый ковёр",
+      "ua": "Фіолетовий килим",
+      "en": "Purple Carpet"
+    },
+    "CARPET.11": {
+      "ru": "Синий ковёр",
+      "ua": "Синій килим",
+      "en": "Blue Carpet"
+    },
+    "CARPET.12": {
+      "ru": "Коричневый ковёр",
+      "ua": "Коричневий килим",
+      "en": "Brown Carpet"
+    },
+    "CARPET.13": {
+      "ru": "Зелёный ковёр",
+      "ua": "Зелений килим",
+      "en": "Green Carpet"
+    },
+    "CARPET.14": {
+      "ru": "Красный ковёр",
+      "ua": "Червоний килим",
+      "en": "Red Carpet"
+    },
+    "CARPET.15": {
+      "ru": "Чёрный ковёр",
+      "ua": "Чорний килим",
+      "en": "Black Carpet"
+    },
+    "HARD_CLAY.0": {
+      "ru": "Терракота",
+      "ua": "Теракота",
+      "en": "Terracotta"
+    },
+    "COAL_BLOCK.0": {
+      "ru": "Угольный блок",
+      "ua": "Блок вугілля",
+      "en": "Block of Coal"
+    },
+    "PACKED_ICE.0": {
+      "ru": "Плотный лёд",
+      "ua": "Сухий лід",
+      "en": "Packed Ice"
+    },
+    "DOUBLE_PLANT.0": {
+      "ru": "Подсолнух",
+      "ua": "Соняшник",
+      "en": "Sunflower"
+    },
+    "DOUBLE_PLANT.1": {
+      "ru": "Сирень",
+      "ua": "Бузок",
+      "en": "Lilac"
+    },
+    "DOUBLE_PLANT.2": {
+      "ru": "Высокая трава",
+      "ua": "Висока трава",
+      "en": "Double Tallgrass"
+    },
+    "DOUBLE_PLANT.3": {
+      "ru": "Раскидистый папоротник",
+      "ua": "Велика папороть",
+      "en": "Large Fern"
+    },
+    "DOUBLE_PLANT.4": {
+      "ru": "Розовый куст",
+      "ua": "Трояндовий кущ",
+      "en": "Rose Bush"
+    },
+    "DOUBLE_PLANT.5": {
+      "ru": "Пион",
+      "ua": "Півонія",
+      "en": "Peony"
+    },
+    "RED_SANDSTONE.0": {
+      "ru": "Красный песчаник",
+      "ua": "Червоний пісковик",
+      "en": "Red Sandstone"
+    },
+    "RED_SANDSTONE.1": {
+      "ru": "Резной красный песчаник",
+      "ua": "Точений червоний пісковик",
+      "en": "Chiseled Red Sandstone"
+    },
+    "RED_SANDSTONE.2": {
+      "ru": "Гладкий красный песчаник",
+      "ua": "Гладкий червоний пісковик",
+      "en": "Smooth Red Sandstone"
+    },
+    "RED_SANDSTONE_STAIRS.0": {
+      "ru": "Ступеньки из красного песчаника",
+      "ua": "Сходи з червоного пісковику",
+      "en": "Red Sandstone Stairs"
+    },
+    "STONE_SLAB2.0": {
+      "ru": "Плита из красного песчаника",
+      "ua": "Плита з червоного пісковику",
+      "en": "Red Sandstone Slab"
+    },
+    "SPRUCE_FENCE_GATE.0": {
+      "ru": "Еловая калитка",
+      "ua": "Смерекова хвіртка",
+      "en": "Spruce Fence Gate"
+    },
+    "BIRCH_FENCE_GATE.0": {
+      "ru": "Берёзовая калитка",
+      "ua": "Березова хвіртка",
+      "en": "Birch Fence Gate"
+    },
+    "JUNGLE_FENCE_GATE.0": {
+      "ru": "Калитка из тропического дерева",
+      "ua": "Хвіртка з тропічного дерева",
+      "en": "Jungle Fence Gate"
+    },
+    "DARK_OAK_FENCE_GATE.0": {
+      "ru": "Калитка из тёмного дуба",
+      "ua": "Хвіртка з темного дубу",
+      "en": "Dark Oak Fence Gate"
+    },
+    "ACACIA_FENCE_GATE.0": {
+      "ru": "Акациевая калитка",
+      "ua": "Акацієва хвіртка",
+      "en": "Acacia Fence Gate"
+    },
+    "SPRUCE_FENCE.0": {
+      "ru": "Еловый забор",
+      "ua": "Смерековий паркан",
+      "en": "Spruce Fence"
+    },
+    "BIRCH_FENCE.0": {
+      "ru": "Берёзовый забор",
+      "ua": "Березовий паркан",
+      "en": "Birch Fence"
+    },
+    "JUNGLE_FENCE.0": {
+      "ru": "Забор из тропического дерева",
+      "ua": "Паркан з тропічного дерева",
+      "en": "Jungle Fence"
+    },
+    "DARK_OAK_FENCE.0": {
+      "ru": "Забор из тёмного дуба",
+      "ua": "Паркан з темного дубу",
+      "en": "Dark Oak Fence"
+    },
+    "ACACIA_FENCE.0": {
+      "ru": "Акациевый забор",
+      "ua": "Акацієвий паркан",
+      "en": "Acacia Fence"
+    },
+    "END_ROD.0": {
+      "ru": "Стержень Энда",
+      "ua": "Ендер-стержень",
+      "en": "End Rod"
+    },
+    "CHORUS_PLANT.0": {
+      "ru": "Хорус",
+      "ua": "Рослина хорусу",
+      "en": "Chorus Plant"
+    },
+    "CHORUS_FLOWER.0": {
+      "ru": "Цветок хоруса",
+      "ua": "Квітка хорусу",
+      "en": "Chorus Flower"
+    },
+    "PURPUR_BLOCK.0": {
+      "ru": "Пурпур",
+      "ua": "Пурпурний блок",
+      "en": "Purpur Block"
+    },
+    "PURPUR_PILLAR.0": {
+      "ru": "Пурпуровый пилон",
+      "ua": "Колона з пурпуру",
+      "en": "Purpur Pillar"
+    },
+    "PURPUR_STAIRS.0": {
+      "ru": "Пурпуровые ступеньки",
+      "ua": "Пурпурові сходи",
+      "en": "Purpur Stairs"
+    },
+    "PURPUR_SLAB.0": {
+      "ru": "Пурпуровая плита",
+      "ua": "Пурпурна плита",
+      "en": "Purpur Slab"
+    },
+    "END_BRICKS.0": {
+      "ru": "Эндерняковые кирпичи",
+      "ua": "Ендер-цегла",
+      "en": "End Stone Bricks"
+    },
+    "GRASS_PATH.0": {
+      "ru": "Тропа",
+      "ua": "Стежка",
+      "en": "Grass Path"
+    },
+    "COMMAND_REPEATING.0": {
+      "ru": "Повторяющий командный блок",
+      "ua": "Повторюючий командний блок",
+      "en": "Repeating Command Block"
+    },
+    "COMMAND_CHAIN.0": {
+      "ru": "Последовательный командный блок",
+      "ua": "Ланцюговий командний блок",
+      "en": "Chain Command Block"
+    },
+    "MAGMA.0": {
+      "ru": "Магма",
+      "ua": "Блок магми",
+      "en": "Magma Block"
+    },
+    "NETHER_WART_BLOCK.0": {
+      "ru": "Блок нароста из Незера",
+      "ua": "Блок пекельного наросту",
+      "en": "Nether Wart Block"
+    },
+    "RED_NETHER_BRICK.0": {
+      "ru": "Красный незеритовый кирпич",
+      "ua": "Червона пекельна цегла",
+      "en": "Red Nether Brick"
+    },
+    "BONE_BLOCK.0": {
+      "ru": "Костный блок",
+      "ua": "Кістяний блок",
+      "en": "Bone Block"
+    },
+    "STRUCTURE_VOID.0": {
+      "ru": "Пустой блок",
+      "ua": "Структурна порожнеча",
+      "en": "Structure Void"
+    },
+    "OBSERVER.0": {
+      "ru": "Наблюдатель",
+      "ua": "Спостерігач",
+      "en": "Observer"
+    },
+    "WHITE_SHULKER_BOX.0": {
+      "ru": "Белый шалкеровый ящик",
+      "ua": "Біла коробка шалкера",
+      "en": "White Shulker Box"
+    },
+    "ORANGE_SHULKER_BOX.0": {
+      "ru": "Оранжевый шалкеровый ящик",
+      "ua": "Помаранчева коробка шалкера",
+      "en": "Orange Shulker Box"
+    },
+    "MAGENTA_SHULKER_BOX.0": {
+      "ru": "Пурпурный шалкеровый ящик",
+      "ua": "Пурпурова коробка шалкера",
+      "en": "Magenta Shulker Box"
+    },
+    "LIGHT_BLUE_SHULKER_BOX.0": {
+      "ru": "Голубой шалкеровый ящик",
+      "ua": "Світло-блакитна коробка шалкера",
+      "en": "Light Blue Shulker Box"
+    },
+    "YELLOW_SHULKER_BOX.0": {
+      "ru": "Жёлтый шалкеровый ящик",
+      "ua": "Жовта коробка шалкера",
+      "en": "Yellow Shulker Box"
+    },
+    "LIME_SHULKER_BOX.0": {
+      "ru": "Лаймовый шалкеровый ящик",
+      "ua": "Лаймова коробка шалкера",
+      "en": "Lime Shulker Box"
+    },
+    "PINK_SHULKER_BOX.0": {
+      "ru": "Розовый шалкеровый ящик",
+      "ua": "Рожева коробка шалкера",
+      "en": "Pink Shulker Box"
+    },
+    "GRAY_SHULKER_BOX.0": {
+      "ru": "Серый шалкеровый ящик",
+      "ua": "Сіра коробка шалкера",
+      "en": "Gray Shulker Box"
+    },
+    "SILVER_SHULKER_BOX.0": {
+      "ru": "Светло-серый шалкеровый ящик",
+      "ua": "Світло-сіра коробка шалкера",
+      "en": "Light Gray Shulker Box"
+    },
+    "CYAN_SHULKER_BOX.0": {
+      "ru": "Бирюзовый шалкеровый ящик",
+      "ua": "Блакитна коробка шалкера",
+      "en": "Cyan Shulker Box"
+    },
+    "PURPLE_SHULKER_BOX.0": {
+      "ru": "Фиолетовый шалкеровый ящик",
+      "ua": "Фіолетова коробка шалкера",
+      "en": "Purple Shulker Box"
+    },
+    "BLUE_SHULKER_BOX.0": {
+      "ru": "Синий шалкеровый ящик",
+      "ua": "Синя коробка шалкера",
+      "en": "Blue Shulker Box"
+    },
+    "BROWN_SHULKER_BOX.0": {
+      "ru": "Коричневый шалкеровый ящик",
+      "ua": "Коричнева коробка шалкера",
+      "en": "Brown Shulker Box"
+    },
+    "GREEN_SHULKER_BOX.0": {
+      "ru": "Зелёный шалкеровый ящик",
+      "ua": "Зелена коробка шалкера",
+      "en": "Green Shulker Box"
+    },
+    "RED_SHULKER_BOX.0": {
+      "ru": "Красный шалкеровый ящик",
+      "ua": "Червона коробка шалкера",
+      "en": "Red Shulker Box"
+    },
+    "BLACK_SHULKER_BOX.0": {
+      "ru": "Чёрный шалкеровый ящик",
+      "ua": "Чорна коробка шалкера",
+      "en": "Black Shulker Box"
+    },
+    "WHITE_GLAZED_TERRACOTTA.0": {
+      "ru": "Белая глазурованная керамика",
+      "ua": "Біла глазурована кераміка",
+      "en": "White Glazed Terracotta"
+    },
+    "ORANGE_GLAZED_TERRACOTTA.0": {
+      "ru": "Оранжевая глазурованная керамика",
+      "ua": "Помаранчева глазурована кераміка",
+      "en": "Orange Glazed Terracotta"
+    },
+    "MAGENTA_GLAZED_TERRACOTTA.0": {
+      "ru": "Пурпурная глазурованная керамика",
+      "ua": "Пурпурова глазурована кераміка",
+      "en": "Magenta Glazed Terracotta"
+    },
+    "LIGHT_BLUE_GLAZED_TERRACOTTA.0": {
+      "ru": "Голубая глазурованная керамика",
+      "ua": "Світло-синя глазурована кераміка",
+      "en": "Light Blue Glazed Terracotta"
+    },
+    "YELLOW_GLAZED_TERRACOTTA.0": {
+      "ru": "Жёлтая глазурованная керамика",
+      "ua": "Жовта глазурована кераміка",
+      "en": "Yellow Glazed Terracotta"
+    },
+    "LIME_GLAZED_TERRACOTTA.0": {
+      "ru": "Лаймовая глазурованная керамика",
+      "ua": "Лаймова глазурована кераміка",
+      "en": "Lime Glazed Terracotta"
+    },
+    "PINK_GLAZED_TERRACOTTA.0": {
+      "ru": "Розовая глазурованная керамика",
+      "ua": "Рожева глазурована кераміка",
+      "en": "Pink Glazed Terracotta"
+    },
+    "GRAY_GLAZED_TERRACOTTA.0": {
+      "ru": "Серая глазурованная керамика",
+      "ua": "Сіра глазурована кераміка",
+      "en": "Gray Glazed Terracotta"
+    },
+    "SILVER_GLAZED_TERRACOTTA.0": {
+      "ru": "Светло-серая глазурованная керамика",
+      "ua": "Світло-сіра глазурована кераміка",
+      "en": "Light Gray Glazed Terracotta"
+    },
+    "CYAN_GLAZED_TERRACOTTA.0": {
+      "ru": "Бирюзовая глазурованная керамика",
+      "ua": "Блакитна глазурована кераміка",
+      "en": "Cyan Glazed Terracotta"
+    },
+    "PURPLE_GLAZED_TERRACOTTA.0": {
+      "ru": "Фиолетовая глазурованная керамика",
+      "ua": "Фіолетова глазурована кераміка",
+      "en": "Purple Glazed Terracotta"
+    },
+    "BLUE_GLAZED_TERRACOTTA.0": {
+      "ru": "Синяя глазурованная керамика",
+      "ua": "Синя глазурована кераміка",
+      "en": "Blue Glazed Terracotta"
+    },
+    "BROWN_GLAZED_TERRACOTTA.0": {
+      "ru": "Коричневая глазурованная керамика",
+      "ua": "Коричнева глазурована кераміка",
+      "en": "Brown Glazed Terracotta"
+    },
+    "GREEN_GLAZED_TERRACOTTA.0": {
+      "ru": "Зелёная глазурованная керамика",
+      "ua": "Зелена глазурована кераміка",
+      "en": "Green Glazed Terracotta"
+    },
+    "RED_GLAZED_TERRACOTTA.0": {
+      "ru": "Красная глазурованная керамика",
+      "ua": "Червона глазурована кераміка",
+      "en": "Red Glazed Terracotta"
+    },
+    "BLACK_GLAZED_TERRACOTTA.0": {
+      "ru": "Чёрная глазурованная керамика",
+      "ua": "Чорна глазурована кераміка",
+      "en": "Black Glazed Terracotta"
+    },
+    "CONCRETE.0": {
+      "ru": "Белый бетон",
+      "ua": "Білий бетон",
+      "en": "White Concrete"
+    },
+    "CONCRETE.1": {
+      "ru": "Оранжевый бетон",
+      "ua": "Помаранчевий бетон",
+      "en": "Orange Concrete"
+    },
+    "CONCRETE.2": {
+      "ru": "Пурпурный бетон",
+      "ua": "Пурпуровий бетон",
+      "en": "Magenta Concrete"
+    },
+    "CONCRETE.3": {
+      "ru": "Голубой бетон",
+      "ua": "Блакитний бетон",
+      "en": "Light Blue Concrete"
+    },
+    "CONCRETE.4": {
+      "ru": "Жёлтый бетон",
+      "ua": "Жовтий бетон",
+      "en": "Yellow Concrete"
+    },
+    "CONCRETE.5": {
+      "ru": "Лаймовый бетон",
+      "ua": "Лаймовий бетон",
+      "en": "Lime Concrete"
+    },
+    "CONCRETE.6": {
+      "ru": "Розовый бетон",
+      "ua": "Рожевий бетон",
+      "en": "Pink Concrete"
+    },
+    "CONCRETE.7": {
+      "ru": "Серый бетон",
+      "ua": "Сірий бетон",
+      "en": "Gray Concrete"
+    },
+    "CONCRETE.8": {
+      "ru": "Светло-серый бетон",
+      "ua": "Світло-сірий бетон",
+      "en": "Light Gray Concrete"
+    },
+    "CONCRETE.9": {
+      "ru": "Бирюзовый бетон",
+      "ua": "Бірюзовий бетон",
+      "en": "Cyan Concrete"
+    },
+    "CONCRETE.10": {
+      "ru": "Фиолетовый бетон",
+      "ua": "Фіолетовий бетон",
+      "en": "Purple Concrete"
+    },
+    "CONCRETE.11": {
+      "ru": "Синий бетон",
+      "ua": "Синій бетон",
+      "en": "Blue Concrete"
+    },
+    "CONCRETE.12": {
+      "ru": "Коричневый бетон",
+      "ua": "Коричневий бетон",
+      "en": "Brown Concrete"
+    },
+    "CONCRETE.13": {
+      "ru": "Зелёный бетон",
+      "ua": "Зелений бетон",
+      "en": "Green Concrete"
+    },
+    "CONCRETE.14": {
+      "ru": "Красный бетон",
+      "ua": "Червоний бетон",
+      "en": "Red Concrete"
+    },
+    "CONCRETE.15": {
+      "ru": "Чёрный бетон",
+      "ua": "Чорний бетон",
+      "en": "Black Concrete"
+    },
+    "CONCRETE_POWDER.0": {
+      "ru": "Белый цемент",
+      "ua": "Білий цемент",
+      "en": "White Concrete Powder"
+    },
+    "CONCRETE_POWDER.1": {
+      "ru": "Оранжевый цемент",
+      "ua": "Помаранчевий цемент",
+      "en": "Orange Concrete Powder"
+    },
+    "CONCRETE_POWDER.2": {
+      "ru": "Пурпурный цемент",
+      "ua": "Пурпуровий цемент",
+      "en": "Magenta Concrete Powder"
+    },
+    "CONCRETE_POWDER.3": {
+      "ru": "Голубой цемент",
+      "ua": "Блакитний цемент",
+      "en": "Light Blue Concrete Powder"
+    },
+    "CONCRETE_POWDER.4": {
+      "ru": "Жёлтый цемент",
+      "ua": "Жовтий цемент",
+      "en": "Yellow Concrete Powder"
+    },
+    "CONCRETE_POWDER.5": {
+      "ru": "Лаймовый цемент",
+      "ua": "Лаймовий цемент",
+      "en": "Lime Concrete Powder"
+    },
+    "CONCRETE_POWDER.6": {
+      "ru": "Розовый цемент",
+      "ua": "Рожевий цемент",
+      "en": "Pink Concrete Powder"
+    },
+    "CONCRETE_POWDER.7": {
+      "ru": "Серый цемент",
+      "ua": "Сірий цемент",
+      "en": "Gray Concrete Powder"
+    },
+    "CONCRETE_POWDER.8": {
+      "ru": "Светло-серый цемент",
+      "ua": "Світло-сірий цемент",
+      "en": "Light Gray Concrete Powder"
+    },
+    "CONCRETE_POWDER.9": {
+      "ru": "Бирюзовый цемент",
+      "ua": "Бірюзовий цемент",
+      "en": "Cyan Concrete Powder"
+    },
+    "CONCRETE_POWDER.10": {
+      "ru": "Фиолетовый цемент",
+      "ua": "Фіолетовий цемент",
+      "en": "Purple Concrete Powder"
+    },
+    "CONCRETE_POWDER.11": {
+      "ru": "Синий цемент",
+      "ua": "Синій цемент",
+      "en": "Blue Concrete Powder"
+    },
+    "CONCRETE_POWDER.12": {
+      "ru": "Коричневый цемент",
+      "ua": "Коричневий цемент",
+      "en": "Brown Concrete Powder"
+    },
+    "CONCRETE_POWDER.13": {
+      "ru": "Зелёный цемент",
+      "ua": "Зелений цемент",
+      "en": "Green Concrete Powder"
+    },
+    "CONCRETE_POWDER.14": {
+      "ru": "Красный цемент",
+      "ua": "Червоний цемент",
+      "en": "Red Concrete Powder"
+    },
+    "CONCRETE_POWDER.15": {
+      "ru": "Чёрный цемент",
+      "ua": "Чорний цемент",
+      "en": "Black Concrete Powder"
+    },
+    "STRUCTURE_BLOCK.0": {
+      "ru": "Блок-конструктор",
+      "ua": "Структурний блок",
+      "en": "Structure Block"
+    },
+    "IRON_SPADE.0": {
+      "ru": "Железная лопата",
+      "ua": "Залізна лопата",
+      "en": "Iron Shovel"
+    },
+    "IRON_PICKAXE.0": {
+      "ru": "Железная кирка",
+      "ua": "Залізне кайло",
+      "en": "Iron Pickaxe"
+    },
+    "IRON_AXE.0": {
+      "ru": "Железный топор",
+      "ua": "Залізна сокира",
+      "en": "Iron Axe"
+    },
+    "FLINT_AND_STEEL.0": {
+      "ru": "Огниво",
+      "ua": "Запальничка",
+      "en": "Flint and Steel"
+    },
+    "APPLE.0": {
+      "ru": "Яблоко",
+      "ua": "Яблуко",
+      "en": "Apple"
+    },
+    "BOW.0": {
+      "ru": "Лук",
+      "ua": "Лук",
+      "en": "Bow"
+    },
+    "ARROW.0": {
+      "ru": "Стрела",
+      "ua": "Стріла",
+      "en": "Arrow"
+    },
+    "COAL.0": {
+      "ru": "Уголь",
+      "ua": "Вугілля",
+      "en": "Coal"
+    },
+    "COAL.1": {
+      "ru": "Древесный уголь",
+      "ua": "Деревне вугілля",
+      "en": "Charcoal"
+    },
+    "DIAMOND.0": {
+      "ru": "Алмаз",
+      "ua": "Діамант",
+      "en": "Diamond"
+    },
+    "IRON_INGOT.0": {
+      "ru": "Железный слиток",
+      "ua": "Залізний злиток",
+      "en": "Iron Ingot"
+    },
+    "GOLD_INGOT.0": {
+      "ru": "Золотой слиток",
+      "ua": "Золотий злиток",
+      "en": "Gold Ingot"
+    },
+    "IRON_SWORD.0": {
+      "ru": "Железный меч",
+      "ua": "Залізний меч",
+      "en": "Iron Sword"
+    },
+    "WOOD_SWORD.0": {
+      "ru": "Деревянный меч",
+      "ua": "Дерев\u0027яний меч",
+      "en": "Wooden Sword"
+    },
+    "WOOD_SPADE.0": {
+      "ru": "Деревянная лопата",
+      "ua": "Дерев\u0027яна лопата",
+      "en": "Wooden Shovel"
+    },
+    "WOOD_PICKAXE.0": {
+      "ru": "Деревянная кирка",
+      "ua": "Дерев\u0027яне кайло",
+      "en": "Wooden Pickaxe"
+    },
+    "WOOD_AXE.0": {
+      "ru": "Деревянный топор",
+      "ua": "Дерев\u0027яна сокира",
+      "en": "Wooden Axe"
+    },
+    "STONE_SWORD.0": {
+      "ru": "Каменный меч",
+      "ua": "Кам\u0027яний меч",
+      "en": "Stone Sword"
+    },
+    "STONE_SPADE.0": {
+      "ru": "Каменная лопата",
+      "ua": "Кам\u0027яна лопата",
+      "en": "Stone Shovel"
+    },
+    "STONE_PICKAXE.0": {
+      "ru": "Каменная кирка",
+      "ua": "Кам\u0027яне кайло",
+      "en": "Stone Pickaxe"
+    },
+    "STONE_AXE.0": {
+      "ru": "Каменный топор",
+      "ua": "Кам\u0027яна сокира",
+      "en": "Stone Axe"
+    },
+    "DIAMOND_SWORD.0": {
+      "ru": "Алмазный меч",
+      "ua": "Діамантовий меч",
+      "en": "Diamond Sword"
+    },
+    "DIAMOND_SPADE.0": {
+      "ru": "Алмазная лопата",
+      "ua": "Діамантова лопата",
+      "en": "Diamond Shovel"
+    },
+    "DIAMOND_PICKAXE.0": {
+      "ru": "Алмазная кирка",
+      "ua": "Діамантове кайло",
+      "en": "Diamond Pickaxe"
+    },
+    "DIAMOND_AXE.0": {
+      "ru": "Алмазный топор",
+      "ua": "Діамантова сокира",
+      "en": "Diamond Axe"
+    },
+    "STICK.0": {
+      "ru": "Палка",
+      "ua": "Палиця",
+      "en": "Stick"
+    },
+    "BOWL.0": {
+      "ru": "Миска",
+      "ua": "Миска",
+      "en": "Bowl"
+    },
+    "MUSHROOM_SOUP.0": {
+      "ru": "Тушёные грибы",
+      "ua": "Тушковані гриби",
+      "en": "Mushroom Stew"
+    },
+    "GOLD_SWORD.0": {
+      "ru": "Золотой меч",
+      "ua": "Золотий меч",
+      "en": "Golden Sword"
+    },
+    "GOLD_SPADE.0": {
+      "ru": "Золотая лопата",
+      "ua": "Золота лопата",
+      "en": "Golden Shovel"
+    },
+    "GOLD_PICKAXE.0": {
+      "ru": "Золотая кирка",
+      "ua": "Золоте кайло",
+      "en": "Golden Pickaxe"
+    },
+    "GOLD_AXE.0": {
+      "ru": "Золотой топор",
+      "ua": "Золота сокира",
+      "en": "Golden Axe"
+    },
+    "STRING.0": {
+      "ru": "Нить",
+      "ua": "Нитка",
+      "en": "String"
+    },
+    "FEATHER.0": {
+      "ru": "Перо",
+      "ua": "Перо",
+      "en": "Feather"
+    },
+    "SULPHUR.0": {
+      "ru": "Порох",
+      "ua": "Порох",
+      "en": "Gunpowder"
+    },
+    "WOOD_HOE.0": {
+      "ru": "Деревянная мотыга",
+      "ua": "Дерев\u0027яна мотика",
+      "en": "Wooden Hoe"
+    },
+    "STONE_HOE.0": {
+      "ru": "Каменная мотыга",
+      "ua": "Кам\u0027яна мотика",
+      "en": "Stone Hoe"
+    },
+    "IRON_HOE.0": {
+      "ru": "Железная мотыга",
+      "ua": "Залізна мотика",
+      "en": "Iron Hoe"
+    },
+    "DIAMOND_HOE.0": {
+      "ru": "Алмазная мотыга",
+      "ua": "Діамантова мотика",
+      "en": "Diamond Hoe"
+    },
+    "GOLD_HOE.0": {
+      "ru": "Золотая мотыга",
+      "ua": "Золота мотика",
+      "en": "Golden Hoe"
+    },
+    "SEEDS.0": {
+      "ru": "Семена пшеницы",
+      "ua": "Насіння пшениці",
+      "en": "Seeds"
+    },
+    "WHEAT.0": {
+      "ru": "Пшеница",
+      "ua": "Пшениця",
+      "en": "Wheat"
+    },
+    "BREAD.0": {
+      "ru": "Хлеб",
+      "ua": "Хліб",
+      "en": "Bread"
+    },
+    "LEATHER_HELMET.0": {
+      "ru": "Кожаный шлем",
+      "ua": "Шкіряна шапка",
+      "en": "Leather Cap"
+    },
+    "LEATHER_CHESTPLATE.0": {
+      "ru": "Кожаная куртка",
+      "ua": "Шкіряна туніка",
+      "en": "Leather Tunic"
+    },
+    "LEATHER_LEGGINGS.0": {
+      "ru": "Кожаные штаны",
+      "ua": "Шкіряні штани",
+      "en": "Leather Pants"
+    },
+    "LEATHER_BOOTS.0": {
+      "ru": "Кожаные ботинки",
+      "ua": "Шкіряні чоботи",
+      "en": "Leather Boots"
+    },
+    "CHAINMAIL_HELMET.0": {
+      "ru": "Койф",
+      "ua": "Кольчужний шолом",
+      "en": "Chain Helmet"
+    },
+    "CHAINMAIL_CHESTPLATE.0": {
+      "ru": "Кольчуга",
+      "ua": "Кольчужний нагрудник",
+      "en": "Chain Chestplate"
+    },
+    "CHAINMAIL_LEGGINGS.0": {
+      "ru": "Кольчужные поножи",
+      "ua": "Кольчужні наголінники",
+      "en": "Chain Leggings"
+    },
+    "CHAINMAIL_BOOTS.0": {
+      "ru": "Кольчужные ботинки",
+      "ua": "Кольчужні чоботи",
+      "en": "Chain Boots"
+    },
+    "IRON_HELMET.0": {
+      "ru": "Железный шлем",
+      "ua": "Залізний шолом",
+      "en": "Iron Helmet"
+    },
+    "IRON_CHESTPLATE.0": {
+      "ru": "Железный нагрудник",
+      "ua": "Залізний нагрудник",
+      "en": "Iron Chestplate"
+    },
+    "IRON_LEGGINGS.0": {
+      "ru": "Железные поножи",
+      "ua": "Залізні наголінники",
+      "en": "Iron Leggings"
+    },
+    "IRON_BOOTS.0": {
+      "ru": "Железные ботинки",
+      "ua": "Залізні чоботи",
+      "en": "Iron Boots"
+    },
+    "DIAMOND_HELMET.0": {
+      "ru": "Алмазный шлем",
+      "ua": "Діамантовий шолом",
+      "en": "Diamond Helmet"
+    },
+    "DIAMOND_CHESTPLATE.0": {
+      "ru": "Алмазный нагрудник",
+      "ua": "Діамантовий нагрудник",
+      "en": "Diamond Chestplate"
+    },
+    "DIAMOND_LEGGINGS.0": {
+      "ru": "Алмазные поножи",
+      "ua": "Діамантові наголінники",
+      "en": "Diamond Leggings"
+    },
+    "DIAMOND_BOOTS.0": {
+      "ru": "Алмазные ботинки",
+      "ua": "Діамантові чоботи",
+      "en": "Diamond Boots"
+    },
+    "GOLD_HELMET.0": {
+      "ru": "Золотой шлем",
+      "ua": "Золотий шолом",
+      "en": "Golden Helmet"
+    },
+    "GOLD_CHESTPLATE.0": {
+      "ru": "Золотой нагрудник",
+      "ua": "Золотий нагрудник",
+      "en": "Golden Chestplate"
+    },
+    "GOLD_LEGGINGS.0": {
+      "ru": "Золотые поножи",
+      "ua": "Золоті наголінники",
+      "en": "Golden Leggings"
+    },
+    "GOLD_BOOTS.0": {
+      "ru": "Золотые ботинки",
+      "ua": "Золоті чоботи",
+      "en": "Golden Boots"
+    },
+    "FLINT.0": {
+      "ru": "Кремень",
+      "ua": "Кремінь",
+      "en": "Flint"
+    },
+    "PORK.0": {
+      "ru": "Сырая свинина",
+      "ua": "Сира свинина",
+      "en": "Raw Porkchop"
+    },
+    "GRILLED_PORK.0": {
+      "ru": "Жареная свинина",
+      "ua": "Смажена свинина",
+      "en": "Cooked Porkchop"
+    },
+    "PAINTING.0": {
+      "ru": "Картина",
+      "ua": "Картина",
+      "en": "Painting"
+    },
+    "GOLDEN_APPLE.0": {
+      "ru": "Золотое яблоко",
+      "ua": "Золоте яблуко",
+      "en": "Golden Apple"
+    },
+    "GOLDEN_APPLE.1": {
+      "ru": "Зачарованное золотое яблоко",
+      "ua": "Зачароване золоте яблуко",
+      "en": "Enchanted Golden Apple"
+    },
+    "SIGN.0": {
+      "ru": "Табличка",
+      "ua": "Табличка",
+      "en": "Sign"
+    },
+    "WOOD_DOOR.0": {
+      "ru": "Дубовая дверь",
+      "ua": "Дубові двері",
+      "en": "Oak Door"
+    },
+    "BUCKET.0": {
+      "ru": "Ведро",
+      "ua": "Відро",
+      "en": "Bucket"
+    },
+    "WATER_BUCKET.0": {
+      "ru": "Ведро воды",
+      "ua": "Відро води",
+      "en": "Water Bucket"
+    },
+    "LAVA_BUCKET.0": {
+      "ru": "Ведро лавы",
+      "ua": "Відро лави",
+      "en": "Lava Bucket"
+    },
+    "MINECART.0": {
+      "ru": "Вагонетка",
+      "ua": "Вагонетка",
+      "en": "Minecart"
+    },
+    "SADDLE.0": {
+      "ru": "Седло",
+      "ua": "Сідло",
+      "en": "Saddle"
+    },
+    "IRON_DOOR.0": {
+      "ru": "Железная дверь",
+      "ua": "Залізні двері",
+      "en": "Iron Door"
+    },
+    "REDSTONE.0": {
+      "ru": "Редстоун",
+      "ua": "Редстоун",
+      "en": "Redstone"
+    },
+    "SNOW_BALL.0": {
+      "ru": "Снежок",
+      "ua": "Сніжка",
+      "en": "Snowball"
+    },
+    "BOAT.0": {
+      "ru": "Дубовая лодка",
+      "ua": "Дубовий човен",
+      "en": "Oak Boat"
+    },
+    "LEATHER.0": {
+      "ru": "Кожа",
+      "ua": "Шкіра",
+      "en": "Leather"
+    },
+    "MILK_BUCKET.0": {
+      "ru": "Молоко",
+      "ua": "Молоко",
+      "en": "Milk"
+    },
+    "CLAY_BRICK.0": {
+      "ru": "Кирпич",
+      "ua": "Цегла",
+      "en": "Brick"
+    },
+    "CLAY_BALL.0": {
+      "ru": "Глина",
+      "ua": "Глина",
+      "en": "Clay"
+    },
+    "SUGAR_CANE.0": {
+      "ru": "Сахарный тростник",
+      "ua": "Цукрова тростина",
+      "en": "Sugar Canes"
+    },
+    "PAPER.0": {
+      "ru": "Бумага",
+      "ua": "Папір",
+      "en": "Paper"
+    },
+    "BOOK.0": {
+      "ru": "Книга",
+      "ua": "Книга",
+      "en": "Book"
+    },
+    "SLIME_BALL.0": {
+      "ru": "Сгусток слизи",
+      "ua": "Слизова кулька",
+      "en": "Slimeball"
+    },
+    "STORAGE_MINECART.0": {
+      "ru": "Грузовая вагонетка",
+      "ua": "Вагонетка зі скринею",
+      "en": "Minecart with Chest"
+    },
+    "POWERED_MINECART.0": {
+      "ru": "Самоходная вагонетка",
+      "ua": "Вагонетка з піччю",
+      "en": "Minecart with Furnace"
+    },
+    "EGG.0": {
+      "ru": "Яйцо",
+      "ua": "Яйце",
+      "en": "Egg"
+    },
+    "COMPASS.0": {
+      "ru": "Компас",
+      "ua": "Компас",
+      "en": "Compass"
+    },
+    "FISHING_ROD.0": {
+      "ru": "Удочка",
+      "ua": "Вудка",
+      "en": "Fishing Rod"
+    },
+    "WATCH.0": {
+      "ru": "Часы",
+      "ua": "Годинник",
+      "en": "Clock"
+    },
+    "GLOWSTONE_DUST.0": {
+      "ru": "Светокаменная пыль",
+      "ua": "Пил світлокаменю",
+      "en": "Glowstone Dust"
+    },
+    "RAW_FISH.0": {
+      "ru": "Сырая треска",
+      "ua": "Сира тріска",
+      "en": "Raw Fish"
+    },
+    "RAW_FISH.1": {
+      "ru": "Сырой лосось",
+      "ua": "Сирий лосось",
+      "en": "Raw Salmon"
+    },
+    "RAW_FISH.2": {
+      "ru": "Рыба-клоун",
+      "ua": "Риба-клоун",
+      "en": "Clownfish"
+    },
+    "RAW_FISH.3": {
+      "ru": "Иглобрюх",
+      "ua": "Скелезуб",
+      "en": "Pufferfish"
+    },
+    "COOKED_FISH.0": {
+      "ru": "Жареная треска",
+      "ua": "Смажена тріска",
+      "en": "Cooked Fish"
+    },
+    "COOKED_FISH.1": {
+      "ru": "Жареный лосось",
+      "ua": "Смажений лосось",
+      "en": "Cooked Salmon"
+    },
+    "COOKED_FISH.2": {
+      "ru": "Рыба-клоун",
+      "ua": "Риба-клоун",
+      "en": "Clownfish"
+    },
+    "COOKED_FISH.3": {
+      "ru": "Иглобрюх",
+      "ua": "Скелезуб",
+      "en": "Pufferfish"
+    },
+    "INK_SACK.0": {
+      "ru": "Чернильный мешок",
+      "ua": "Чорнильний мішок",
+      "en": "Ink Sac"
+    },
+    "INK_SACK.1": {
+      "ru": "Красный краситель",
+      "ua": "Червоний барвник",
+      "en": "Rose Red"
+    },
+    "INK_SACK.2": {
+      "ru": "Зелёный краситель",
+      "ua": "Зелень кактуса",
+      "en": "Cactus Green"
+    },
+    "INK_SACK.3": {
+      "ru": "Какао-бобы",
+      "ua": "Какао-боби",
+      "en": "Cocoa Beans"
+    },
+    "INK_SACK.4": {
+      "ru": "Лазурит",
+      "ua": "Лазурит",
+      "en": "Lapis Lazuli"
+    },
+    "INK_SACK.5": {
+      "ru": "Фиолетовый краситель",
+      "ua": "Фіолетовий барвник",
+      "en": "Purple Dye"
+    },
+    "INK_SACK.6": {
+      "ru": "Бирюзовый краситель",
+      "ua": "Бірюзовий барвник",
+      "en": "Cyan Dye"
+    },
+    "INK_SACK.7": {
+      "ru": "Светло-серый краситель",
+      "ua": "Світло-сірий барвник",
+      "en": "Light Gray Dye"
+    },
+    "INK_SACK.8": {
+      "ru": "Серый краситель",
+      "ua": "Сірий барвник",
+      "en": "Gray Dye"
+    },
+    "INK_SACK.9": {
+      "ru": "Розовый краситель",
+      "ua": "Рожевий барвник",
+      "en": "Pink Dye"
+    },
+    "INK_SACK.10": {
+      "ru": "Лаймовый краситель",
+      "ua": "Лаймовий барвник",
+      "en": "Lime Dye"
+    },
+    "INK_SACK.11": {
+      "ru": "Жёлтый краситель",
+      "ua": "Жовтий барвник",
+      "en": "Dandelion Yellow"
+    },
+    "INK_SACK.12": {
+      "ru": "Голубой краситель",
+      "ua": "Блакитний барвник",
+      "en": "Light Blue Dye"
+    },
+    "INK_SACK.13": {
+      "ru": "Пурпурный краситель",
+      "ua": "Пурпуровий барвник",
+      "en": "Magenta Dye"
+    },
+    "INK_SACK.14": {
+      "ru": "Оранжевый краситель",
+      "ua": "Помаранчевий барвник",
+      "en": "Orange Dye"
+    },
+    "INK_SACK.15": {
+      "ru": "Костная мука",
+      "ua": "Кісткове борошно",
+      "en": "Bone Meal"
+    },
+    "BONE.0": {
+      "ru": "Кость",
+      "ua": "Кістка",
+      "en": "Bone"
+    },
+    "SUGAR.0": {
+      "ru": "Сахар",
+      "ua": "Цукор",
+      "en": "Sugar"
+    },
+    "CAKE.0": {
+      "ru": "Торт",
+      "ua": "Торт",
+      "en": "Cake"
+    },
+    "BED.0": {
+      "ru": "Белая кровать",
+      "ua": "Біле ліжко",
+      "en": "White Bed"
+    },
+    "BED.1": {
+      "ru": "Оранжевая кровать",
+      "ua": "Помаранчеве ліжко",
+      "en": "Orange Bed"
+    },
+    "BED.2": {
+      "ru": "Пурпурная кровать",
+      "ua": "Пурпурове ліжко",
+      "en": "Magenta Bed"
+    },
+    "BED.3": {
+      "ru": "Голубая кровать",
+      "ua": "Блакитне ліжко",
+      "en": "Light Blue Bed"
+    },
+    "BED.4": {
+      "ru": "Жёлтая кровать",
+      "ua": "Жовте ліжко",
+      "en": "Yellow Bed"
+    },
+    "BED.5": {
+      "ru": "Лаймовая кровать",
+      "ua": "Лаймове ліжко",
+      "en": "Lime Bed"
+    },
+    "BED.6": {
+      "ru": "Розовая кровать",
+      "ua": "Рожеве ліжко",
+      "en": "Pink Bed"
+    },
+    "BED.7": {
+      "ru": "Серая кровать",
+      "ua": "Сіре ліжко",
+      "en": "Gray Bed"
+    },
+    "BED.8": {
+      "ru": "Светло-серая кровать",
+      "ua": "Світло-сіре ліжко",
+      "en": "Light Gray Bed"
+    },
+    "BED.9": {
+      "ru": "Бирюзовая кровать",
+      "ua": "Бірюзове ліжко",
+      "en": "Cyan Bed"
+    },
+    "BED.10": {
+      "ru": "Фиолетовая кровать",
+      "ua": "Фіолетове ліжко",
+      "en": "Purple Bed"
+    },
+    "BED.11": {
+      "ru": "Синяя кровать",
+      "ua": "Синє ліжко",
+      "en": "Blue Bed"
+    },
+    "BED.12": {
+      "ru": "Коричневая кровать",
+      "ua": "Коричневе ліжко",
+      "en": "Brown Bed"
+    },
+    "BED.13": {
+      "ru": "Зелёная кровать",
+      "ua": "Зелене ліжко",
+      "en": "Green Bed"
+    },
+    "BED.14": {
+      "ru": "Красная кровать",
+      "ua": "Червоне ліжко",
+      "en": "Red Bed"
+    },
+    "BED.15": {
+      "ru": "Чёрная кровать",
+      "ua": "Чорне ліжко",
+      "en": "Black Bed"
+    },
+    "DIODE.0": {
+      "ru": "Редстоуновый повторитель",
+      "ua": "Редстоуновий повторювач",
+      "en": "Redstone Repeater"
+    },
+    "COOKIE.0": {
+      "ru": "Печенье",
+      "ua": "Печиво",
+      "en": "Cookie"
+    },
+    "MAP.0": {
+      "ru": "Карта",
+      "ua": "Карта",
+      "en": "Map"
+    },
+    "SHEARS.0": {
+      "ru": "Ножницы",
+      "ua": "Ножиці",
+      "en": "Shears"
+    },
+    "MELON.0": {
+      "ru": "Арбуз",
+      "ua": "Кавун",
+      "en": "Melon"
+    },
+    "PUMPKIN_SEEDS.0": {
+      "ru": "Семена тыквы",
+      "ua": "Насіння гарбуза",
+      "en": "Pumpkin Seeds"
+    },
+    "MELON_SEEDS.0": {
+      "ru": "Семена арбуза",
+      "ua": "Насіння кавуна",
+      "en": "Melon Seeds"
+    },
+    "RAW_BEEF.0": {
+      "ru": "Сырая говядина",
+      "ua": "Сира яловичина",
+      "en": "Raw Beef"
+    },
+    "COOKED_BEEF.0": {
+      "ru": "Стейк",
+      "ua": "Стейк",
+      "en": "Steak"
+    },
+    "RAW_CHICKEN.0": {
+      "ru": "Курятина",
+      "ua": "Сира курятина",
+      "en": "Raw Chicken"
+    },
+    "COOKED_CHICKEN.0": {
+      "ru": "Жареная курица",
+      "ua": "Смажена курятина",
+      "en": "Cooked Chicken"
+    },
+    "ROTTEN_FLESH.0": {
+      "ru": "Гнилая плоть",
+      "ua": "Гнила плоть",
+      "en": "Rotten Flesh"
+    },
+    "ENDER_PEARL.0": {
+      "ru": "Эндер-жемчуг",
+      "ua": "Перлина Енду",
+      "en": "Ender Pearl"
+    },
+    "BLAZE_ROD.0": {
+      "ru": "Огненный стержень",
+      "ua": "Жезл Блейза",
+      "en": "Blaze Rod"
+    },
+    "GHAST_TEAR.0": {
+      "ru": "Слеза гаста",
+      "ua": "Сльоза Ґаста",
+      "en": "Ghast Tear"
+    },
+    "GOLD_NUGGET.0": {
+      "ru": "Кусочек золота",
+      "ua": "Золотий самородок",
+      "en": "Gold Nugget"
+    },
+    "NETHER_STALK.0": {
+      "ru": "Нарост из Незера",
+      "ua": "Пекельний наріст",
+      "en": "Nether Wart"
+    },
+    "POTION.0": {
+      "ru": "Зелье",
+      "ua": "Зілля",
+      "en": "Potion"
+    },
+    "GLASS_BOTTLE.0": {
+      "ru": "Пузырёк",
+      "ua": "Скляна колба",
+      "en": "Glass Bottle"
+    },
+    "SPIDER_EYE.0": {
+      "ru": "Паучий глаз",
+      "ua": "Павуче око",
+      "en": "Spider Eye"
+    },
+    "FERMENTED_SPIDER_EYE.0": {
+      "ru": "Маринованный паучий глаз",
+      "ua": "Оброблене павуче око",
+      "en": "Fermented Spider Eye"
+    },
+    "BLAZE_POWDER.0": {
+      "ru": "Огненный порошок",
+      "ua": "Пил Блейза",
+      "en": "Blaze Powder"
+    },
+    "MAGMA_CREAM.0": {
+      "ru": "Сгусток магмы",
+      "ua": "Магмовий крем",
+      "en": "Magma Cream"
+    },
+    "BREWING_STAND_ITEM.0": {
+      "ru": "Зельеварка",
+      "ua": "Варильна стійка",
+      "en": "Brewing Stand"
+    },
+    "CAULDRON_ITEM.0": {
+      "ru": "Котёл",
+      "ua": "Казан",
+      "en": "Cauldron"
+    },
+    "EYE_OF_ENDER.0": {
+      "ru": "Око Эндера",
+      "ua": "Око Енду",
+      "en": "Eye of Ender"
+    },
+    "SPECKLED_MELON.0": {
+      "ru": "Сверкающий арбуз",
+      "ua": "Блискуча скибка кавуна",
+      "en": "Glistering Melon"
+    },
+    "MONSTER_EGG.0": {
+      "ru": "Яйцо призыва —",
+      "ua": "Заспаунити моба: ",
+      "en": "Spawn"
+    },
+    "EXP_BOTTLE.0": {
+      "ru": "Пузырёк опыта",
+      "ua": "Пляшечка чар",
+      "en": "Bottle o\u0027 Enchanting"
+    },
+    "FIREBALL.0": {
+      "ru": "Огненный заряд",
+      "ua": "Заряд полум\u0027я",
+      "en": "Fire Charge"
+    },
+    "BOOK_AND_QUILL.0": {
+      "ru": "Книга и перо",
+      "ua": "Книга й перо",
+      "en": "Book and Quill"
+    },
+    "WRITTEN_BOOK.0": {
+      "ru": "Завершённая книга",
+      "ua": "Написана книга",
+      "en": "Written Book"
+    },
+    "EMERALD.0": {
+      "ru": "Изумруд",
+      "ua": "Смарагд",
+      "en": "Emerald"
+    },
+    "ITEM_FRAME.0": {
+      "ru": "Рамка",
+      "ua": "Рамка для предметів",
+      "en": "Item Frame"
+    },
+    "FLOWER_POT_ITEM.0": {
+      "ru": "Цветочный горшок",
+      "ua": "Квітковий горщик",
+      "en": "Flower Pot"
+    },
+    "CARROT_ITEM.0": {
+      "ru": "Морковь",
+      "ua": "Морква",
+      "en": "Carrot"
+    },
+    "POTATO_ITEM.0": {
+      "ru": "Картофель",
+      "ua": "Картопля",
+      "en": "Potato"
+    },
+    "BAKED_POTATO.0": {
+      "ru": "Печёный картофель",
+      "ua": "Запечена картопля",
+      "en": "Baked Potato"
+    },
+    "POISONOUS_POTATO.0": {
+      "ru": "Ядовитый картофель",
+      "ua": "Отруйна картопля",
+      "en": "Poisonous Potato"
+    },
+    "EMPTY_MAP.0": {
+      "ru": "Чистая карта",
+      "ua": "Порожня карта",
+      "en": "Empty Map"
+    },
+    "GOLDEN_CARROT.0": {
+      "ru": "Золотая морковь",
+      "ua": "Золота морква",
+      "en": "Golden Carrot"
+    },
+    "SKULL_ITEM.0": {
+      "ru": "Череп",
+      "ua": "Череп скелета",
+      "en": "Skeleton Skull"
+    },
+    "SKULL_ITEM.1": {
+      "ru": "Череп визер-скелета",
+      "ua": "Череп скелета-висушувача",
+      "en": "Wither Skeleton Skull"
+    },
+    "SKULL_ITEM.2": {
+      "ru": "Голова зомби",
+      "ua": "Голова зомбі",
+      "en": "Zombie Head"
+    },
+    "SKULL_ITEM.3": {
+      "ru": "Голова",
+      "ua": "Голова",
+      "en": "Head"
+    },
+    "SKULL_ITEM.4": {
+      "ru": "Голова крипера",
+      "ua": "Голова кріпера",
+      "en": "Creeper Head"
+    },
+    "SKULL_ITEM.5": {
+      "ru": "Голова дракона",
+      "ua": "Голова дракона",
+      "en": "Dragon Head"
+    },
+    "CARROT_STICK.0": {
+      "ru": "Удочка с морковкой",
+      "ua": "Морква на паличці",
+      "en": "Carrot on a Stick"
+    },
+    "NETHER_STAR.0": {
+      "ru": "Звезда из Незера",
+      "ua": "Пекельна зірка",
+      "en": "Nether Star"
+    },
+    "PUMPKIN_PIE.0": {
+      "ru": "Тыквенный пирог",
+      "ua": "Гарбузовий пиріг",
+      "en": "Pumpkin Pie"
+    },
+    "FIREWORK.0": {
+      "ru": "Фейерверк",
+      "ua": "Ракетний феєрверк",
+      "en": "Firework Rocket"
+    },
+    "FIREWORK_CHARGE.0": {
+      "ru": "Пиротехническая звезда",
+      "ua": "Зірка феєрверку",
+      "en": "Firework Star"
+    },
+    "ENCHANTED_BOOK.0": {
+      "ru": "Чародейская книга",
+      "ua": "Зачарована книга",
+      "en": "Enchanted Book"
+    },
+    "REDSTONE_COMPARATOR.0": {
+      "ru": "Редстоуновый компаратор",
+      "ua": "Редстоуновий компаратор",
+      "en": "Redstone Comparator"
+    },
+    "NETHER_BRICK_ITEM.0": {
+      "ru": "Незеритовый кирпич",
+      "ua": "Пекельна цеглина",
+      "en": "Nether Brick"
+    },
+    "QUARTZ.0": {
+      "ru": "Незер-кварц",
+      "ua": "Кварц",
+      "en": "Nether Quartz"
+    },
+    "EXPLOSIVE_MINECART.0": {
+      "ru": "Вагонетка с динамитом",
+      "ua": "Вагонетка з динамітом",
+      "en": "Minecart with TNT"
+    },
+    "HOPPER_MINECART.0": {
+      "ru": "Загрузочная вагонетка",
+      "ua": "Вагонетка з воронкою",
+      "en": "Minecart with Hopper"
+    },
+    "PRISMARINE_SHARD.0": {
+      "ru": "Осколок призмарина",
+      "ua": "Уламок призмарину",
+      "en": "Prismarine Shard"
+    },
+    "PRISMARINE_CRYSTALS.0": {
+      "ru": "Кристалл призмарина",
+      "ua": "Кристал призмарину",
+      "en": "Prismarine Crystals"
+    },
+    "RABBIT.0": {
+      "ru": "Сырая крольчатина",
+      "ua": "Сирий кролик",
+      "en": "Raw Rabbit"
+    },
+    "COOKED_RABBIT.0": {
+      "ru": "Жареная крольчатина",
+      "ua": "Смажений кролик",
+      "en": "Cooked Rabbit"
+    },
+    "RABBIT_STEW.0": {
+      "ru": "Тушёный кролик",
+      "ua": "Тушкований кролик",
+      "en": "Rabbit Stew"
+    },
+    "RABBIT_FOOT.0": {
+      "ru": "Кроличья лапка",
+      "ua": "Кроляча лапка",
+      "en": "Rabbit\u0027s Foot"
+    },
+    "RABBIT_HIDE.0": {
+      "ru": "Кроличья шкурка",
+      "ua": "Кроляча шкурка",
+      "en": "Rabbit Hide"
+    },
+    "ARMOR_STAND.0": {
+      "ru": "Стойка для брони",
+      "ua": "Стійка для броні",
+      "en": "Armor Stand"
+    },
+    "IRON_BARDING.0": {
+      "ru": "Железная конская броня",
+      "ua": "Залізна кінська броня",
+      "en": "Iron Horse Armor"
+    },
+    "GOLD_BARDING.0": {
+      "ru": "Золотая конская броня",
+      "ua": "Золота кінська броня",
+      "en": "Gold Horse Armor"
+    },
+    "DIAMOND_BARDING.0": {
+      "ru": "Алмазная конская броня",
+      "ua": "Діамантова кінська броня",
+      "en": "Diamond Horse Armor"
+    },
+    "LEASH.0": {
+      "ru": "Поводок",
+      "ua": "Повідець",
+      "en": "Lead"
+    },
+    "NAME_TAG.0": {
+      "ru": "Бирка",
+      "ua": "Ярлик",
+      "en": "Name Tag"
+    },
+    "COMMAND_MINECART.0": {
+      "ru": "Вагонетка с командным блоком",
+      "ua": "Вагонетка з командним блоком",
+      "en": "Minecart with Command Block"
+    },
+    "MUTTON.0": {
+      "ru": "Сырая баранина",
+      "ua": "Сира баранина",
+      "en": "Raw Mutton"
+    },
+    "COOKED_MUTTON.0": {
+      "ru": "Жареная баранина",
+      "ua": "Смажена баранина",
+      "en": "Cooked Mutton"
+    },
+    "END_CRYSTAL.0": {
+      "ru": "Кристалл Энда",
+      "ua": "Кристал Енду",
+      "en": "End Crystal"
+    },
+    "SPRUCE_DOOR_ITEM.0": {
+      "ru": "Еловая дверь",
+      "ua": "Смерекові двері",
+      "en": "Spruce Door"
+    },
+    "BIRCH_DOOR_ITEM.0": {
+      "ru": "Берёзовая дверь",
+      "ua": "Березові двері",
+      "en": "Birch Door"
+    },
+    "JUNGLE_DOOR_ITEM.0": {
+      "ru": "Дверь из тропического дерева",
+      "ua": "Двері з тропічного дерева",
+      "en": "Jungle Door"
+    },
+    "ACACIA_DOOR_ITEM.0": {
+      "ru": "Акациевая дверь",
+      "ua": "Акацієві двері",
+      "en": "Acacia Door"
+    },
+    "DARK_OAK_DOOR_ITEM.0": {
+      "ru": "Дверь из тёмного дуба",
+      "ua": "Двері з темного дубу",
+      "en": "Dark Oak Door"
+    },
+    "CHORUS_FRUIT.0": {
+      "ru": "Плод хоруса",
+      "ua": "Фрукт хорусу",
+      "en": "Chorus Fruit"
+    },
+    "CHORUS_FRUIT_POPPED.0": {
+      "ru": "Прожаренный плод хоруса",
+      "ua": "Спечений фрукт хорусу",
+      "en": "Popped Chorus Fruit"
+    },
+    "BEETROOT.0": {
+      "ru": "Свёкла",
+      "ua": "Буряк",
+      "en": "Beetroot"
+    },
+    "BEETROOT_SEEDS.0": {
+      "ru": "Семена свёклы",
+      "ua": "Насіння буряка",
+      "en": "Beetroot Seeds"
+    },
+    "BEETROOT_SOUP.0": {
+      "ru": "Свекольный суп",
+      "ua": "Борщ",
+      "en": "Beetroot Soup"
+    },
+    "DRAGONS_BREATH.0": {
+      "ru": "Драконье дыхание",
+      "ua": "Дихання дракона",
+      "en": "Dragon\u0027s Breath"
+    },
+    "SPLASH_POTION.0": {
+      "ru": "Взрывное зелье",
+      "ua": "Вибухове зілля",
+      "en": "Splash Potion"
+    },
+    "SPECTRAL_ARROW.0": {
+      "ru": "Спектральная стрела",
+      "ua": "Спектральна стріла",
+      "en": "Spectral Arrow"
+    },
+    "TIPPED_ARROW.0": {
+      "ru": "Обработанная стрела",
+      "ua": "Оброблена стріла",
+      "en": "Tipped Arrow"
+    },
+    "LINGERING_POTION.0": {
+      "ru": "Туманное зелье",
+      "ua": "Уповільнююче зілля",
+      "en": "Lingering Potion"
+    },
+    "SHIELD.0": {
+      "ru": "Щит",
+      "ua": "Щит",
+      "en": "Shield"
+    },
+    "ELYTRA.0": {
+      "ru": "Элитры",
+      "ua": "Елітри",
+      "en": "Elytra"
+    },
+    "BOAT_SPRUCE.0": {
+      "ru": "Еловая лодка",
+      "ua": "Смерековий човен",
+      "en": "Spruce Boat"
+    },
+    "BOAT_BIRCH.0": {
+      "ru": "Берёзовая лодка",
+      "ua": "Березовий човен",
+      "en": "Birch Boat"
+    },
+    "BOAT_JUNGLE.0": {
+      "ru": "Лодка из тропического дерева",
+      "ua": "Човен з тропічного дерева",
+      "en": "Jungle Boat"
+    },
+    "BOAT_ACACIA.0": {
+      "ru": "Акациевая лодка",
+      "ua": "Човен з акації",
+      "en": "Acacia Boat"
+    },
+    "BOAT_DARK_OAK.0": {
+      "ru": "Лодка из тёмного дуба",
+      "ua": "Човен з деревини темного дубу",
+      "en": "Dark Oak Boat"
+    },
+    "TOTEM.0": {
+      "ru": "Тотем бессмертия",
+      "ua": "Тотем безсмертя",
+      "en": "Totem of Undying"
+    },
+    "SHULKER_SHELL.0": {
+      "ru": "Панцирь шалкера",
+      "ua": "Ракушняк шалкера",
+      "en": "Shulker Shell"
+    },
+    "IRON_NUGGET.0": {
+      "ru": "Кусочек железа",
+      "ua": "Залізний самородок",
+      "en": "Iron Nugget"
+    },
+    "KNOWLEDGE_BOOK.0": {
+      "ru": "Книга знаний",
+      "ua": "Книга знань",
+      "en": "Knowledge Book"
+    },
+    "GOLD_RECORD.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "GREEN_RECORD.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_3.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_4.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_5.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_6.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_7.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_8.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_9.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_10.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_11.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    },
+    "RECORD_12.0": {
+      "ru": "Пластинка",
+      "ua": "Платівка",
+      "en": "Music Disc"
+    }
+  }
+}

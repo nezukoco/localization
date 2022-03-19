@@ -1,0 +1,154 @@
+{
+  "ENCHANTMENT": {
+    "PROTECTION_ENVIRONMENTAL": {
+      "ru": "Защита",
+      "ua": "Захист",
+      "en": "Protection"
+    },
+    "PROTECTION_FIRE": {
+      "ru": "Огнеупорность",
+      "ua": "Вогнестійкість",
+      "en": "Fire Protection"
+    },
+    "PROTECTION_FALL": {
+      "ru": "Невесомость",
+      "ua": "Невагомість",
+      "en": "Feather Falling"
+    },
+    "PROTECTION_EXPLOSIONS": {
+      "ru": "Взрывоустойчивость",
+      "ua": "Захист від вибухів",
+      "en": "Blast Protection"
+    },
+    "PROTECTION_PROJECTILE": {
+      "ru": "Защита от снарядов",
+      "ua": "Захист від снарядів",
+      "en": "Projectile Protection"
+    },
+    "OXYGEN": {
+      "ru": "Подводное дыхание",
+      "ua": "Дихання",
+      "en": "Respiration"
+    },
+    "WATER_WORKER": {
+      "ru": "Подводник",
+      "ua": "Рідність води",
+      "en": "Aqua Affinity"
+    },
+    "MENDING": {
+      "ru": "Починка",
+      "ua": "Ремонт",
+      "en": "Mending"
+    },
+    "THORNS": {
+      "ru": "Шипы",
+      "ua": "Шипи",
+      "en": "Thorns"
+    },
+    "VANISHING_CURSE": {
+      "ru": "Проклятие утраты",
+      "ua": "Прокляття втрати",
+      "en": "Curse of Vanishing"
+    },
+    "DEPTH_STRIDER": {
+      "ru": "Подводная ходьба",
+      "ua": "Глибинний бігун",
+      "en": "Depth Strider"
+    },
+    "FROST_WALKER": {
+      "ru": "Ледоход",
+      "ua": "Льодохід",
+      "en": "Frost Walker"
+    },
+    "BINDING_CURSE": {
+      "ru": "Проклятие несъёмности",
+      "ua": "Прокляття прив\u0027язування",
+      "en": "Curse of Binding"
+    },
+    "DAMAGE_ALL": {
+      "ru": "Острота",
+      "ua": "Гострота",
+      "en": "Sharpness"
+    },
+    "DAMAGE_UNDEAD": {
+      "ru": "Небесная кара",
+      "ua": "Кара",
+      "en": "Smite"
+    },
+    "DAMAGE_ARTHROPODS": {
+      "ru": "Бич членистоногих",
+      "ua": "Загибель членистоногих",
+      "en": "Bane of Arthropods"
+    },
+    "KNOCKBACK": {
+      "ru": "Отдача",
+      "ua": "Відкидування",
+      "en": "Knockback"
+    },
+    "FIRE_ASPECT": {
+      "ru": "Заговор огня",
+      "ua": "Сила вогню",
+      "en": "Fire Aspect"
+    },
+    "LOOT_BONUS_MOBS": {
+      "ru": "Добыча",
+      "ua": "Продуктивність",
+      "en": "Looting"
+    },
+    "SWEEPING_EDGE": {
+      "ru": "Разящий клинок",
+      "ua": "Нищівне лезо",
+      "en": "Sweeping Edge"
+    },
+    "DIG_SPEED": {
+      "ru": "Эффективность",
+      "ua": "Ефективність",
+      "en": "Efficiency"
+    },
+    "SILK_TOUCH": {
+      "ru": "Шёлковое касание",
+      "ua": "Шовковий дотик",
+      "en": "Silk Touch"
+    },
+    "DURABILITY": {
+      "ru": "Прочность",
+      "ua": "Незламність",
+      "en": "Unbreaking"
+    },
+    "LOOT_BONUS_BLOCKS": {
+      "ru": "Удача",
+      "ua": "Вдача",
+      "en": "Fortune"
+    },
+    "ARROW_DAMAGE": {
+      "ru": "Сила",
+      "ua": "Сила",
+      "en": "Power"
+    },
+    "ARROW_KNOCKBACK": {
+      "ru": "Откидывание",
+      "ua": "Відкидування",
+      "en": "Punch"
+    },
+    "ARROW_FIRE": {
+      "ru": "Горящая стрела",
+      "ua": "Полум\u0027я",
+      "en": "Flame"
+    },
+    "ARROW_INFINITE": {
+      "ru": "Бесконечность",
+      "ua": "Нескінченність",
+      "en": "Infinity"
+    },
+    "LUCK": {
+      "ru": "Везучий рыбак",
+      "ua": "Морська фортуна",
+      "en": "Luck of the Sea"
+    },
+    "LURE": {
+      "ru": "Приманка",
+      "ua": "Приманка",
+      "en": "Lure"
+    }
+  }
+}

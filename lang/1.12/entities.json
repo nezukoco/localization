@@ -1,0 +1,324 @@
+{
+  "ENTITY": {
+    "DROPPED_ITEM": {
+      "ru": "Предмет",
+      "ua": "Предмет",
+      "en": "Item"
+    },
+    "EXPERIENCE_ORB": {
+      "ru": "Сфера опыта",
+      "ua": "Сфера досвіду",
+      "en": "Experience Orb"
+    },
+    "ELDER_GUARDIAN": {
+      "ru": "Древний страж",
+      "ua": "Старий вартовий",
+      "en": "Elder Guardian"
+    },
+    "WITHER_SKELETON": {
+      "ru": "Визер-скелет",
+      "ua": "Скелет-висушувач",
+      "en": "Wither Skeleton"
+    },
+    "STRAY": {
+      "ru": "Зимогор",
+      "ua": "Блукач",
+      "en": "Stray"
+    },
+    "PAINTING": {
+      "ru": "Картина",
+      "ua": "Картина",
+      "en": "Painting"
+    },
+    "ARROW": {
+      "ru": "Стрела",
+      "ua": "Стріла",
+      "en": "Arrow"
+    },
+    "SNOWBALL": {
+      "ru": "Снежок",
+      "ua": "Сніжка",
+      "en": "Snowball"
+    },
+    "FIREBALL": {
+      "ru": "Файербол",
+      "ua": "Фаєрбол",
+      "en": "Fireball"
+    },
+    "SMALL_FIREBALL": {
+      "ru": "Малый файербол",
+      "ua": "Малий фаєрбол",
+      "en": "Small Fireball"
+    },
+    "SPLASH_POTION": {
+      "ru": "Зелье",
+      "ua": "Зілля",
+      "en": "Potion"
+    },
+    "PRIMED_TNT": {
+      "ru": "Блок динамита",
+      "ua": "Блок динаміту",
+      "en": "Block of TNT"
+    },
+    "FALLING_BLOCK": {
+      "ru": "Падающий блок",
+      "ua": "Падаючий блок",
+      "en": "Falling Block"
+    },
+    "HUSK": {
+      "ru": "Кадавр",
+      "ua": "Висушень",
+      "en": "Husk"
+    },
+    "DRAGON_FIREBALL": {
+      "ru": "Файербол дракона",
+      "ua": "Фаєрбол дракона",
+      "en": "Dragon Fireball"
+    },
+    "ZOMBIE_VILLAGER": {
+      "ru": "Зомби-крестьянин",
+      "ua": "Зомбі-селянин",
+      "en": "Zombie Villager"
+    },
+    "SKELETON_HORSE": {
+      "ru": "Лошадь-скелет",
+      "ua": "Кінь-скелет",
+      "en": "Skeleton Horse"
+    },
+    "ZOMBIE_HORSE": {
+      "ru": "Лошадь-зомби",
+      "ua": "Кінь-зомбі",
+      "en": "Zombie Horse"
+    },
+    "ARMOR_STAND": {
+      "ru": "Стойка для брони",
+      "ua": "Стійка для броні",
+      "en": "Armor Stand"
+    },
+    "DONKEY": {
+      "ru": "Осёл",
+      "ua": "Віслюк",
+      "en": "Donkey"
+    },
+    "MULE": {
+      "ru": "Мул",
+      "ua": "Мул",
+      "en": "Mule"
+    },
+    "EVOKER": {
+      "ru": "Заклинатель",
+      "ua": "Заклинач",
+      "en": "Evoker"
+    },
+    "VEX": {
+      "ru": "Вредина",
+      "ua": "Бісик",
+      "en": "Vex"
+    },
+    "VINDICATOR": {
+      "ru": "Поборник",
+      "ua": "Рубник",
+      "en": "Vindicator"
+    },
+    "ILLUSIONER": {
+      "ru": "Иллюзор",
+      "ua": "Ілюзіонин",
+      "en": "Illusioner"
+    },
+    "BOAT": {
+      "ru": "Лодка",
+      "ua": "Човен",
+      "en": "Boat"
+    },
+    "MINECART_CHEST": {
+      "ru": "Грузовая вагонетка",
+      "ua": "Вагонетка зі скринею",
+      "en": "Minecart with Chest"
+    },
+    "MINECART_HOPPER": {
+      "ru": "Загрузочная вагонетка",
+      "ua": "Вагонетка з воронкою",
+      "en": "Minecart with Hopper"
+    },
+    "CREEPER": {
+      "ru": "Крипер",
+      "ua": "Кріпер",
+      "en": "Creeper"
+    },
+    "SKELETON": {
+      "ru": "Скелет",
+      "ua": "Скелет",
+      "en": "Skeleton"
+    },
+    "SPIDER": {
+      "ru": "Паук",
+      "ua": "Павук",
+      "en": "Spider"
+    },
+    "GIANT": {
+      "ru": "Гигант",
+      "ua": "Велетень",
+      "en": "Giant"
+    },
+    "ZOMBIE": {
+      "ru": "Зомби",
+      "ua": "Зомбі",
+      "en": "Zombie"
+    },
+    "SLIME": {
+      "ru": "Слизень",
+      "ua": "Слимак",
+      "en": "Slime"
+    },
+    "GHAST": {
+      "ru": "Гаст",
+      "ua": "Ґаст",
+      "en": "Ghast"
+    },
+    "PIG_ZOMBIE": {
+      "ru": "Свинозомби",
+      "ua": "Свинозомбі",
+      "en": "Zombie Pigman"
+    },
+    "ENDERMAN": {
+      "ru": "Эндермен",
+      "ua": "Ендермен",
+      "en": "Enderman"
+    },
+    "CAVE_SPIDER": {
+      "ru": "Пещерный паук",
+      "ua": "Печерний павук",
+      "en": "Cave Spider"
+    },
+    "SILVERFISH": {
+      "ru": "Чешуйница",
+      "ua": "Лусківниця",
+      "en": "Silverfish"
+    },
+    "BLAZE": {
+      "ru": "Всполох",
+      "ua": "Блейз",
+      "en": "Blaze"
+    },
+    "MAGMA_CUBE": {
+      "ru": "Магмовый куб",
+      "ua": "Магмокуб",
+      "en": "Magma Cube"
+    },
+    "ENDER_DRAGON": {
+      "ru": "Эндер-дракон",
+      "ua": "Дракон Енду",
+      "en": "Ender Dragon"
+    },
+    "WITHER": {
+      "ru": "Визер",
+      "ua": "Висушувач",
+      "en": "Wither"
+    },
+    "BAT": {
+      "ru": "Летучая мышь",
+      "ua": "Кажан",
+      "en": "Bat"
+    },
+    "WITCH": {
+      "ru": "Ведьма",
+      "ua": "Відьма",
+      "en": "Witch"
+    },
+    "ENDERMITE": {
+      "ru": "Эндермит",
+      "ua": "Ендерміт",
+      "en": "Endermite"
+    },
+    "GUARDIAN": {
+      "ru": "Страж",
+      "ua": "Вартовий",
+      "en": "Guardian"
+    },
+    "SHULKER": {
+      "ru": "Шалкер",
+      "ua": "Шалкер",
+      "en": "Shulker"
+    },
+    "PIG": {
+      "ru": "Свинья",
+      "ua": "Свиня",
+      "en": "Pig"
+    },
+    "SHEEP": {
+      "ru": "Овца",
+      "ua": "Вівця",
+      "en": "Sheep"
+    },
+    "COW": {
+      "ru": "Корова",
+      "ua": "Корова",
+      "en": "Cow"
+    },
+    "CHICKEN": {
+      "ru": "Курица",
+      "ua": "Курка",
+      "en": "Chicken"
+    },
+    "SQUID": {
+      "ru": "Спрут",
+      "ua": "Кальмар",
+      "en": "Squid"
+    },
+    "WOLF": {
+      "ru": "Волк",
+      "ua": "Вовк",
+      "en": "Wolf"
+    },
+    "MUSHROOM_COW": {
+      "ru": "Муухомор",
+      "ua": "Му-у-ухомор",
+      "en": "Mooshroom"
+    },
+    "SNOWMAN": {
+      "ru": "Снеговик",
+      "ua": "Сніговий ґолем",
+      "en": "Snow Golem"
+    },
+    "OCELOT": {
+      "ru": "Оцелот",
+      "ua": "Оцелот",
+      "en": "Ocelot"
+    },
+    "IRON_GOLEM": {
+      "ru": "Железный голем",
+      "ua": "Залізний ґолем",
+      "en": "Iron Golem"
+    },
+    "HORSE": {
+      "ru": "Лошадь",
+      "ua": "Кінь",
+      "en": "Horse"
+    },
+    "RABBIT": {
+      "ru": "Кролик",
+      "ua": "Кролик",
+      "en": "Rabbit"
+    },
+    "POLAR_BEAR": {
+      "ru": "Белый медведь",
+      "ua": "Білий ведмідь",
+      "en": "Polar Bear"
+    },
+    "LLAMA": {
+      "ru": "Лама",
+      "ua": "Лама",
+      "en": "Llama"
+    },
+    "PARROT": {
+      "ru": "Попугай",
+      "ua": "Папуга",
+      "en": "Parrot"
+    },
+    "VILLAGER": {
+      "ru": "Крестьянин",
+      "ua": "Селянин",
+      "en": "Villager"
+    }
+  }
+}

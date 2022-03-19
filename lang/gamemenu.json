@@ -1,0 +1,31 @@
+{
+  "GAMEMENU_NAME_GUI": {
+    "ru": "§0➲ §0§nВыбор режима§r"
+  },
+  "GAMEMENU_CHANNEL_ERROR": {
+    "ru": [
+      "",
+      "§cОшибка, доступные сервера",
+      "§cне найдены!"
+    ]
+  },
+  "GAMEMENU_CHANNEL_INFO_LORE": {
+    "ru": [
+      "§7Серверов %s",
+      "§7Онлайн §d%s §7%s",
+      "",
+      "%s"
+    ]
+  },
+  "GAMEMENU_CHANNEL_CONNECT": {
+    "ru": [
+      " §d↪ §7Кликни, чтобы выбрать сервер"
+    ]
+  },
+  "GAMEMENU_CHANNEL_ERROR_VERSION": {
+    "ru": [
+      "§cИзвини, у тебя не подходящая версия игры :(",
+      "Заходи с версии: %s - %s"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "BUNGEE_ALREADY_ONLINE": {
+    "ru": "§cДанный игрок уже на сервере!",
+    "en": "§cThis player is already on the server!"
+  },
+  "BUNGEE_INVALID_ADDRESS": {
+    "ru": "§cВаш IP адрес содержит некорректные данные",
+    "en": "§cYour IP address contains incorrect data"
+  },
+  "BUNGEE_JOIN_SERVER_UNAVAILABLE": {
+    "ru": "§cНе удалось найти подходящий сервер входа",
+    "en": "§cCould not find an available login server"
+  },
+  "BUNGEE_LOGGED_FROM_ANOTHER_LOCATION": {
+    "ru": "§cВы были авторизованы с другого места",
+    "en": "§cYou have been logged in from another location"
+  },
+  "BUNGEE_NO_REASON_SPECIFIED": {
+    "ru": "§cПричина не указана",
+    "en": "§cNo reason specified"
+  },
+  "BUNGEE_SQL_ERROR": {
+    "ru": "§cНе удалось загрузить данные авторизации",
+    "en": "§cFailed to load authorization data"
+  },
+  "TAB_HEADER": {
+    "ru": [
+      " ",
+      "§d§lmc.Neko§f§lCloud.me§r",
+      "§7❤ Лучший в своем роде ❤§r",
+      " ",
+      "§fСервер: §5%s §7(%s)",
+      "§fОбщий онлайн: §d%s/%s",
+      " "
+    ]
+  },
+  "TAB_FOOTER": {
+    "ru": [
+      " ",
+      "§fОнлайн-магазин:",
+      "§d$@WEBSITE$",
+      " "
+    ]
+  },
+  "SKIN_PREFIX": {
+    "ru": "§d§lСКИНЫ §8| §f"
+  },
+  "SKIN_HELP": {
+    "ru": [
+      "$@SKIN_PREFIX$Помощь по командам:",
+      " ",
+      "§d     /skin <ник> §8- §fУстановить скин",
+      "§d     /skin reset §8- §fСбросить скин",
+      " "
+    ]
+  },
+  "SKIN_HAS_BEES_RESET": {
+    "ru": "$@SKIN_PREFIX$Твой скин успешно сброшен!"
+  },
+  "SKIN_HAS_BEEN_UPDATED_TO":{
+    "ru": "$@SKIN_PREFIX$Ты успешно установил скин игрока §d%s"
+  },
+  "SKIN_IS_INVALID": {
+    "ru": "$@SKIN_PREFIX$Выбранный тобой скин невалиден или произошла какая-то ошибка :("
+  },
+  "PING": {
+    "ru": "$@SERVER_PREFIX$Твой пинг: %s ms"
+  },
+  "PING_OTHER": {
+    "ru": "$@SERVER_PREFIX$Пинг игрока %s: %s ms"
+  },
+
+  "ANNOUNCER_GIT_MESSAGE": {
+    "ru": [
+      "ДИМА Б**ДЬ СДЕЛАЙ УЖЕ АННОНСЕРЫ!!"
+    ]
+  }
+}

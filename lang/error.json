@@ -1,0 +1,50 @@
+{
+  "DO_NOT_SEND_SIMILAR_MESSAGES": {
+    "ru": " $@SERVER_PREFIX$Не повторяй одинаковые сообщения!"
+  },
+  "DO_NOT_SPAM": {
+    "ru": " $@SERVER_PREFIX$Не флуди! :("
+  },
+  "ERROR_CONNECT": {
+    "ru": "$@SERVER_PREFIX$Ошибка, ты не смог подключиться к серверу %s! Ты были перенаправлен на сервер %s"
+  },
+  "ERROR_START_GAMER_ARENA": {
+    "ru": "$@SERVER_PREFIX$Ошибка, не хватает игроков для старта"
+  },
+  "ERROR_TELEPORT": {
+    "ru": "$@SERVER_PREFIX$Ошибка телепортации в лобби :("
+  },
+  "ERROR_TO_LOBBY": {
+    "ru": "$@SERVER_PREFIX$Ошибка при телепортации в лобби :("
+  },
+  "ERROR_WITH_YOUR_BUKKIT": {
+    "ru": "$@SERVER_PREFIX$С Твоим аккаунтом произошла ошибка :( Перезайди на сервер и попробуй ввести команду снова"
+  },
+  "NOT_BEST_SERVER": {
+    "ru": "$@SERVER_PREFIX$Нет подходящей арены!"
+  },
+  "NOT_DOMAIN_PIAR": {
+    "ru": "; $@SERVER_PREFIX$У нас запрещено рекламировать сайты и сторонние ресурсы; "
+  },
+  "NOT_PIAR": {
+    "ru": "; $@SERVER_PREFIX$Рекламировать каналы могут только игроки с привилегией §6YT §fи §fT§5T§f!; "
+  },
+  "NO_FOUND_PLAYER": {
+    "ru": "$@SERVER_PREFIX$Ошибка, игрок §5%s§f не найден или он оффлайн"
+  },
+  "NO_LOBBY_FOUND": {
+    "ru": "$@SERVER_PREFIX$Ошибка, хаб не найден!"
+  },
+  "NO_PERMS": {
+    "ru": "$@SERVER_PREFIX$Ошибка, недостаточно прав!"
+  },
+  "NO_PERMS_GROUP": {
+    "ru": "$@SERVER_PREFIX$Ошибка, недостаточно прав, купи %s §fили выше!"
+  },
+  "NO_PERMS_NEKO_ONLY": {
+    "ru": "$@SERVER_PREFIX$Ошибка, данная функция доступна только для §d§lNEKO"
+  },
+  "SERVER_ERROR": {
+    "ru": "$@SERVER_PREFIX$Возникла внутренняя ошибка сервера"
+  }
+}
