@@ -1,0 +1,20 @@
+{
+  "LIMBO_ITEM_LORE": {
+    "ru": [
+      "§7Используй этот предмет,",
+      "§7чтобы вернуться в главное лобби"
+    ],
+    "en": [
+      "§7Use this item",
+      "§7to return to the main lobby"
+    ]
+  },
+  "LIMBO_ITEM_NAME": {
+    "ru": "Назад в главное лобби",
+    "en": "Back to the main lobby"
+  },
+  "LIMBO_NO_CHAT": {
+    "ru": "$SERVER_PREFIX$Извини, но ты не можешь писать в §aчат§f. Вернуться в главное лобби §7/hub §fили §7/lobby",
+    "en": "$SERVER_PREFIX$Sorry, but you cannot write to §achat§f. Return to the main §7/hub §for §7/lobby"
+  }
+}
