@@ -69,6 +69,14 @@
   "PING_OTHER": {
     "ru": "$SERVER_PREFIX$Пинг игрока %s: %s ms"
   },
+  "WHITELIST_KICK_MESSAGE": {
+    "ru": [
+      "§d§lNeko§f§lCloud§r",
+      "",
+      "§fНа сервере ведутся §dтехнические работы",
+      "§fСледи за новостями: §5vk.com/nekocloud"
+    ]
+  },
 
   "ANNOUNCER_GIT_MESSAGE": {
     "ru": [

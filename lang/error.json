@@ -32,8 +32,11 @@
   "NO_FOUND_PLAYER": {
     "ru": "$SERVER_PREFIX$Ошибка, игрок §5%s§f не найден или он оффлайн"
   },
+  "NO_HUB_FOUND": {
+    "ru": "$SERVER_PREFIX$Ошибка, доступные хаб сервера не найдены!"
+  },
   "NO_LOBBY_FOUND": {
-    "ru": "$SERVER_PREFIX$Ошибка, хаб не найден!"
+    "ru": "$SERVER_PREFIX$Ошибка, доступные лобби сервера не найдены!"
   },
   "NO_PERMS": {
     "ru": "$SERVER_PREFIX$Ошибка, недостаточно прав!"
