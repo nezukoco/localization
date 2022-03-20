@@ -35,5 +35,11 @@
   "WAIT_PLS": {
     "ru": "§cПодожди немножко...",
     "en": "§cWait a little bit..."
+  },
+  "INVITE_ACCEPT_BUTTON": {
+    "ru": "§a§l[ПРИНЯТЬ]"
+  },
+  "INVITE_DECLINE_BUTTON": {
+    "ru": "§c§l[ОТКЛОНИТЬ]"
   }
 }

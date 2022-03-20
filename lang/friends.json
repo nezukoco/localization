@@ -1,0 +1,84 @@
+{
+  "FRIENDS_PREFIX": {
+    "ru": "§d§lДРУЗЬЯ §8| §f"
+  },
+  "FRIENDS_ADD_FORMAT": {
+    "ru": "/friend add <ник>"
+  },
+  "FRIENDS_REMOVE_FORMAT": {
+    "ru": "/friend remove <ник>"
+  },
+  "FRIENDS_ACCEPT_FORMAT": {
+    "ru": "/friend accept <ник>"
+  },
+  "FRIENDS_DENY_FORMAT": {
+    "ru": "/friend deny <ник>"
+  },
+  "FRIENDS_TP_FORMAT": {
+    "ru": "/friend tp <ник>"
+  },
+  "FRIENDS_HELP": {
+    "ru": [
+      "$FRIENDS_PREFIX$Список доступных команд:",
+      "",
+      "§d     /friend add <ник> §8- §fДобавить игрока в друзья",
+      "§d     /friend remove <ник> §8- §fУдалить игрока из друзей",
+      "§d     /friend accept <ник> §8- §fПринять запрос в друзья",
+      "§d     /friend deny <ник> §8- §fОтклонить запрос в друзья",
+      "§d     /friend list §8- §fПосмотреть список своих друзей",
+      "§d     /friends requests §8- §fПосмотреть список запросов в друзья",
+      "§d     /friends tp <ник> §8- §fТелепортация на сервер друга",
+      ""
+    ]
+  },
+  "FRIEND_ADD_ERROR_DUPLICATE_REQUEST": {
+    "ru": "$FRIENDS_PREFIX$Данный игрок уже приглашал Тебя в друзья"
+  },
+  "FRIEND_ADD_ERROR_HAS_REQUEST": {
+    "ru": "$FRIENDS_PREFIX$Ошибка, Ты уже отправил запрос в друзья данному игроку..."
+  },
+  "FRIEND_ADD_ERROR_IS_FRIEND": {
+    "ru": "$FRIENDS_PREFIX$Ошибка, Ты уже дружишь с игроком %s"
+  },
+  "FRIEND_ADD_ERROR_YOURSELF_AS_FRIEND": {
+    "ru": "$FRIENDS_PREFIX$Извини, но ты не можешь добавить сам себя в друзья :("
+  },
+  "FRIEND_ADD_SUCCESS_SEND": {
+    "ru": "$FRIENDS_PREFIX$Запрос в друзья успешно отправлен игроку %s"
+  },
+  "FRIEND_REMOVE_ERROR_HAS_FRIEND": {
+    "ru": "$FRIENDS_PREFIX$Ошибка, данный игрок не является Твоим другом!"
+  },
+  "FRIEND_SUCCESS_REMOVE_FRIEND": {
+    "ru": "$FRIENDS_PREFIX$Игрок %s §fбыл удален из твоего списка друзей"
+  },
+  "FRIENDS_DONT_HAVE_INVITES": {
+    "ru": "$FRIENDS_PREFIX$На данный момент у Тебя нет акутальных запросов в друзья :("
+  },
+  "FRIEND_LIST": {
+    "ru": "$FRIENDS_PREFIX$Список Твоих друзей: §d(%s)"
+  },
+  "FRIEND_LIST_NO_FRIENDS": {
+    "ru": [
+      "$FRIENDS_PREFIX$",
+      "§f     Прости, но список Твоих друзей пуст :(",
+      "§f     Ты можешь пополнить его, добавив",
+      "§f     игрока командой: /friend add <ник>"
+    ]
+  },
+  "FRIEND_LIST_REQUESTS": {
+    "ru": "$FRIENDS_PREFIX$Список актуальных запросов: §d(%s)"
+  },
+  "FRIENDS_NEW_FRIEND": {
+    "ru": "$FRIENDS_PREFIX$Поздравляем! Ты подружился с игроком %s"
+  },
+  "FRIENDS_YOU_REJECTED_REQUEST": {
+    "ru": "$FRIENDS_PREFIX$Вы отклонили запрос в друзья от игрока %s"
+  },
+  "FRIENDS_REQUEST_REJECTED": {
+    "ru": "$FRIENDS_PREFIX$%s §fотклонил Твой запрос в друзья :("
+  },
+  "FRIENDS_DONT_HAVE_INVITES_FROM": {
+    "ru": "$FRIENDS_PREFIX$Ошибка, данный игрок не отправлял Тебе приглашение на дружбу!"
+  }
+}

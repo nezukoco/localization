@@ -17,7 +17,7 @@
   "STAFF_CHAT_FORMAT": {
     "ru": "/sc <сообщение>"
   },
-  "POST_MESSAGE_FORMAT": {
+  "POST_MESSAGE_CHAT": {
     "ru": "§d§lЛС §8| §d%s §8➾ §7%s§f: §f%s"
   },
   "POST_MESSAGE_SELF_ME": {

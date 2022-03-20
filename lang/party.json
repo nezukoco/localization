@@ -1,0 +1,43 @@
+{
+  "PARTY_PREFIX": {
+    "ru": "§d§lКОМПАНИЯ §8| §f"
+  },
+  "PARTY_INVITE_FORMAT": {
+    "ru": "/party invite <ник игрока>"
+  },
+  "PARTY_KICK_FORMAT": {
+    "ru": "/party kick <ник игрока>"
+  },
+  "PARTY_CHAT_FORMAT": {
+    "ru": "/party chat <сообщение> | @<сообщение>"
+  },
+  "PARTY_CANCEL_FORMAT": {
+    "ru": "/party cancel <ник игрока>"
+  },
+  "PARTY_ACCEPT_FORMAT": {
+    "ru": "/party accept <ник>"
+  },
+  "PARTY_EMPTY_HELP": {
+    "ru": [
+      "$PARTY_PREFIX$Список доступных команд:",
+      "",
+      "§d     /party invite <ник> §8- §fОтправить запрос игроку",
+      "§d     /party accept <ник> §8- §fПринять запрос в компанию",
+      "§d     /party cancel <ник> §8- §fОтклонить запрос в компанию",
+      ""
+    ]
+  },
+  "PARTY_HELP": {
+    "ru": [
+      "§d     /party chat <сообщение> | @<сообщение> §8- §fЧат группы",
+      "§d     /party list §8- §fСписок игроков в группе",
+      "§d     /party kick <ник игрока> §8- §fУдалить игрока из группы",
+      "§d     /party warp §8- §fТелепортировать группу на сервер",
+      "§d     /party leave §8- §fВыйти из группы",
+      "§d     /party disband §8- §fРасформировать группу"
+    ]
+  },
+  "PARTY_JOIN_ALERT": {
+    "ru": "$PARTY_PREFIX$%s §fприсоединился к вашей компании"
+  }
+}
