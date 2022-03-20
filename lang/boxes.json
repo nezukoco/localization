@@ -5,6 +5,9 @@
   "KEY_BOX": {
     "ru": "%sУ тебя %s %s"
   },
+  "BOX_NAME": {
+    "ru": "§d§lКЕЙСЫ"
+  },
   "GROUP_KEY": {
     "ru": "§aДонатный ключ",
     "en": "§aDonate key"

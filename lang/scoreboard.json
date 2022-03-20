@@ -1,142 +1,84 @@
 {
   "BOARD_ACHIEVEMENT": {
     "ru": "§fВыполнено достижений",
-    "ua": "§fВиконано досягнень",
     "en": "§fAchievements completed"
   },
   "BOARD_AIRDROP": {
-    "ru": "§fСобрано ящиков",
-    "ua": "§fЗібрано скринь",
-    "en": "§fChests gathered"
+    "ru": "§fСобрано ящиков"
   },
   "BOARD_BALANCE": {
-    "ru": "§fБаланс",
-    "ua": "§fБаланс",
-    "en": "§fBalance"
+    "ru": "§fБаланс"
   },
   "BOARD_BED": {
-    "ru": "§fКровать",
-    "ua": "§fЛіжко",
-    "en": "§fBed"
+    "ru": "§fКровать"
   },
   "BOARD_BORDERTIME": {
-    "ru": "§fСужение границ",
-    "ua": "§fЗвуження меж",
-    "en": "§fNarrowing margins"
-  },
-  "BOARD_BREAK_BEDS": {
-    "ru": "§fСломано кроватей",
-    "ua": "§fЗломано ліжок",
-    "en": "§fBeds broken"
-  },
-  "BOARD_BREAK_EGGS": {
-    "ru": "§fУничтожено яиц",
-    "ua": "§fЗнищено яєць",
-    "en": "§fEggs destroyed"
+    "ru": "§fСужение границ"
   },
   "BOARD_BUSTER": {
     "ru": "§fАктивный бустер",
-    "ua": "§fАктивний бустер",
     "en": "§fActive booster"
   },
   "BOARD_CHEST": {
     "ru": "§fСундуков",
-    "ua": "§fСкринь",
     "en": "§fChests"
   },
   "BOARD_COLOR": {
     "ru": "§fЦвет",
-    "ua": "§fКолір",
     "en": "§fColor"
   },
   "BOARD_DEATH": {
     "ru": "§fСмертей",
-    "ua": "§fСмертей",
     "en": "§fDeaths"
-  },
-  "BOARD_DISCORD": {
-    "ru": "§fДискорд",
-    "ua": "§fДискорд",
-    "en": "§fDiscord"
-  },
-  "BOARD_DUST": {
-    "ru": "§fПыли",
-    "ua": "§fПилу",
-    "en": "§fDust"
   },
   "BOARD_EGG": {
     "ru": "§fЯйцо",
-    "ua": "§fЯйце",
     "en": "§fEgg"
   },
   "BOARD_FINAL_KILLS": {
     "ru": "§fФинальных убийств",
-    "ua": "§fФінальных вбивств",
     "en": "§fFinal kills"
   },
   "BOARD_FOR_START": {
-    "ru": "§fДля старта нужно",
-    "ua": "§fДля старту потрібно",
-    "en": "§fNeeded for start"
-  },
-  "BOARD_GAME_STATS": {
-    "ru": "§fСтатистика",
-    "ua": "§fСтатистика",
-    "en": "§fStatistics"
+    "ru": "§fДля старта нужно"
   },
   "BOARD_GLOBAL_ONLINE": {
     "ru": "§fОнлайн проекта",
     "ua": "§fОнлайн проекту",
     "en": "§fOnline project"
   },
-  "BOARD_GOLD": {
-    "ru": "§fЗолота",
-    "ua": "§fЗолота",
-    "en": "§fGold"
-  },
   "BOARD_GROUP": {
-    "ru": "§fВаш ранг",
-    "ua": "§fВаш ранг",
-    "en": "§fYour rank"
+    "ru": "§fСтатус"
   },
   "BOARD_ISLAND_YOU": {
-    "ru": "§fВаш остров",
-    "ua": "§fВаш острів",
-    "en": "§fYour island"
+    "ru": "§fВаш остров"
   },
   "BOARD_KILLS": {
     "ru": "§fУбийств",
-    "ua": "§fУбивств",
     "en": "§fKills"
   },
   "BOARD_LEVEL": {
     "ru": "§fУровень",
-    "ua": "§fРівень",
     "en": "§fLevel"
   },
   "BOARD_LEVEL_ISLAND": {
     "ru": "§fУровень острова",
-    "ua": "§fРівень острова",
     "en": "§fIsland level"
   },
   "BOARD_LIFE_COUNT": {
     "ru": "§fЖизней",
-    "ua": "§fЖиттів",
     "en": "§fLives"
   },
   "BOARD_MAPS": {
     "ru": "§fКарта",
-    "ua": "§fКарта",
-    "en": "vMap"
+    "en": "§fMap"
   },
   "BOARD_MEMBER_ISLAND": {
     "ru": "§fКол-во участников",
-    "ua": "§fКількість учасників",
     "en": "§fMembers amount"
   },
   "BOARD_MOBS": {
     "ru": "§fУбито мобов",
-    "ua": "§fВбито мобів",
     "en": "§fMobs killed"
   },
   "BOARD_MODE": {
@@ -146,87 +88,70 @@
   },
   "BOARD_MODULE": {
     "ru": "§fМодуль",
-    "ua": "§fМодуль",
     "en": "§fModule"
   },
   "BOARD_MONEY": {
     "ru": "§fМонет",
-    "ua": "§fКопійок",
     "en": "§fCoins"
   },
   "BOARD_NA": {
     "ru": "§fНе выбрано",
-    "ua": "§fНе обрано",
     "en": "§fNot chosen"
   },
   "BOARD_ONLINE": {
     "ru": "§fОнлайн",
-    "ua": "§fОнлайн",
     "en": "§fOnline"
   },
   "BOARD_OUR_TEAM": {
     "ru": "§fВаша команда",
-    "ua": "§fВаша команда",
     "en": "§fYour team"
   },
   "BOARD_OWNER": {
     "ru": "§fВладелец",
-    "ua": "§fВласник",
     "en": "§fOwner"
   },
   "BOARD_PERK": {
     "ru": "§fУмение",
-    "ua": "§fУміння",
     "en": "§fSkill"
   },
   "BOARD_PLAYERS": {
     "ru": "§fИгроков",
-    "ua": "§fГравців",
     "en": "§fPlayers"
   },
   "BOARD_POINTS": {
     "ru": "§fОчков",
-    "ua": "§fОчок",
     "en": "§fPoints"
   },
   "BOARD_RANK_YOU": {
-    "ru": "§fВаш ранг",
-    "ua": "§fВаш ранг",
-    "en": "§fYour rank"
+    "ru": "§fСтатус",
+    "en": "§fStatus"
   },
   "BOARD_REGION": {
     "ru": "§fРегион",
-    "ua": "§fРегіон",
     "en": "§fRegion"
   },
   "BOARD_REGIONS": {
     "ru": "§fКол-во приватов",
-    "ua": "§fКількість приватів",
     "en": "§fAmount of privates"
   },
   "BOARD_SERVER": {
     "ru": "§fСервер",
-    "ua": "§fСервер",
     "en": "§fServer"
   },
   "BOARD_SHOP": {
     "ru": "§fМагазин",
-    "ua": "§fМагазин",
     "en": "§fShop"
   },
   "BOARD_SPECTATOR": {
     "ru": "§fНаблюдателей",
-    "ua": "§fСпостерігачів",
     "en": "§fSpectators"
   },
   "BOARD_STATS": {
     "ru": "§fПодробнее",
-    "ua": "§fДетальніше",
     "en": "§fDetailes"
   },
   "BOARD_TEAMS": {
     "ru": "§fКоманды",
-    "ua": "§fКоманди",
     "en": "§fTeams"
   },
   "BOARD_REMAINING_TIME": {
@@ -234,67 +159,54 @@
   },
   "BOARD_TIME": {
     "ru": "§fВремя",
-    "ua": "§fЧас",
     "en": "§fTime"
   },
   "BOARD_TIME_TO_DM": {
-    "ru": "§fВремя до дезматча",
-    "ua": "§fЧас до дезматчу",
-    "en": "§fTime until deathmatch"
+    "ru": "§fВремя до дезматча"
   },
   "BOARD_TOTAL_BED": {
-    "ru": "§fСломано кроватей",
-    "ua": "§fЗломано ліжок",
-    "en": "§fBeds broken"
+    "ru": "§fСломано кроватей"
   },
   "BOARD_TOTAL_EGG": {
-    "ru": "§fСломано яиц",
-    "ua": "§fРозбито яєць",
-    "en": "§fEggs broken"
+    "ru": "§fСломано яиц"
   },
   "BOARD_TOTAL_GAMES": {
-    "ru": "§fСыграно игр",
-    "ua": "§fЗіграно ігор",
-    "en": "§fGames played"
+    "ru": "§fСыграно игр"
   },
   "BOARD_TOTAL_GEN": {
-    "ru": "§fУлучшено генераторов",
-    "ua": "§fПокращено генераторів",
-    "en": "§fGenerators improved"
+    "ru": "§fУлучшено генераторов"
   },
   "BOARD_TOTAL_KILLS": {
-    "ru": "§fВсего убийств",
-    "ua": "§fВсього вбивств",
-    "en": "§fTotal kills"
+    "ru": "§fВсего убийств"
   },
   "BOARD_TOTAL_LUCKYBLOCKS": {
-    "ru": "§fСломано блоков",
-    "ua": "§fЗломано блоків",
-    "en": "§fBlocks broken"
+    "ru": "§fСломано блоков"
   },
   "BOARD_TOTAL_MID_LUCKYBLOCKS": {
-    "ru": "§fСломано мидовых блоков",
-    "ua": "§fЗломано мидових блоків",
-    "en": "§fMid blocks broken"
+    "ru": "§fСломано мидовых блоков"
   },
   "BOARD_TOTAL_WINS": {
-    "ru": "§fВсего побед",
-    "ua": "§fУсього перемог",
-    "en": "§fTotal wins"
+    "ru": "§fВсего побед"
   },
   "BOARD_TO_START": {
-    "ru": "§fСтарт через",
-    "ua": "§fСтарт через",
-    "en": "§fStart in"
+    "ru": "§fСтарт через"
   },
   "BOARD_UPGRADE": {
-    "ru": "§fУлучшений",
-    "ua": "§fПокращень",
-    "en": "§fUpgrades"
+    "ru": "§fУлучшений"
   },
   "BOARD_WAIT": {
-    "ru": "§fОжидание игроков",
-    "ua": "§fОчікування гравців",
-    "en": "§fWaiting for players"
+    "ru": "§fОжидание игроков"
+  },
+  "BOARD_VIRTS": {
+    "ru": "§fВиртов"
+  },
+  "BOARD_COINS": {
+    "ru": "§fМонеток"
+  },
+  "BOARD_PROFILE": {
+    "ru": "§5§lП§d§lРОФИЛЬ"
+  },
+  "BOARD_STATISTIC": {
+    "ru": "§5§lС§d§lТАТИСТИКА"
   }
 }
