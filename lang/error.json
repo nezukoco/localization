@@ -51,6 +51,6 @@
     "ru": "$SERVER_PREFIX$Возникла внутренняя ошибка сервера"
   },
   "SERVER_ERROR_KICK": {
-    "ru": "$SERVER_PREFIX$Сервер %s разорвал твое подключение: %s"
+    "ru": "$SERVER_PREFIX$Сервер %s разорвал подключение: %s"
   }
 }
