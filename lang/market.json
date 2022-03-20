@@ -316,53 +316,36 @@
     ]
   },
   "AUCTION_TYPE_ALL_NAME": {
-    "ru": "Все",
-    "ua": "Все",
-    "en": "All"
+    "ru": "Все"
   },
   "AUCTION_TYPE_ARMOR_NAME": {
-    "ru": "Броня",
-    "ua": "броня",
-    "en": "Armor"
+    "ru": "Броня"
   },
   "AUCTION_TYPE_BLOCKS_NAME": {
-    "ru": "Блоки",
-    "ua": "Блоки",
-    "en": "Blocks"
+    "ru": "Блоки"
   },
   "AUCTION_TYPE_ENCHANTING_NAME": {
-    "ru": "Зачарования",
-    "ua": "Зачарування",
-    "en": "Enchantments"
+    "ru": "Зачарования"
   },
   "AUCTION_TYPE_FARMING_NAME": {
-    "ru": "Растения",
-    "ua": "Рослини",
-    "en": "Plants"
+    "ru": "Растения"
   },
   "AUCTION_TYPE_FOOD_NAME": {
-    "ru": "Еда",
-    "ua": "Їжа",
-    "en": "Food"
+    "ru": "Еда"
   },
   "AUCTION_TYPE_OTHER_NAME": {
-    "ru": "Остальное",
-    "ua": "Решта",
-    "en": "Rest"
+    "ru": "Остальное"
   },
   "AUCTION_TYPE_POTION_NAME": {
-    "ru": "Зелья",
-    "ua": "Зілля",
-    "en": "Potions"
+    "ru": "Зелья"
   },
   "AUCTION_TYPE_RESOURCES_NAME": {
-    "ru": "Ресурсы",
-    "ua": "Ресурси",
-    "en": "Resources"
+    "ru": "Ресурсы"
   },
   "AUCTION_TYPE_TOOLS_NAME": {
-    "ru": "Инструменты",
-    "ua": "Інструменти",
-    "en": "Instruments"
+    "ru": "Инструменты"
+  },
+  "AUCTION_TYPE_WEAPON_NAME": {
+    "ru": "Оружие"
   }
 }
