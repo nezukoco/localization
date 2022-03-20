@@ -38,7 +38,7 @@
     "ru": [
       " ",
       "§fОнлайн-магазин:",
-      "§d$@WEBSITE$",
+      "§d$WEBSITE$",
       " "
     ]
   },
@@ -47,7 +47,7 @@
   },
   "SKIN_HELP": {
     "ru": [
-      "$@SKIN_PREFIX$Помощь по командам:",
+      "$SKIN_PREFIX$Помощь по командам:",
       " ",
       "§d     /skin <ник> §8- §fУстановить скин",
       "§d     /skin reset §8- §fСбросить скин",
@@ -55,19 +55,19 @@
     ]
   },
   "SKIN_HAS_BEES_RESET": {
-    "ru": "$@SKIN_PREFIX$Твой скин успешно сброшен!"
+    "ru": "$SKIN_PREFIX$Твой скин успешно сброшен!"
   },
   "SKIN_HAS_BEEN_UPDATED_TO":{
-    "ru": "$@SKIN_PREFIX$Ты успешно установил скин игрока §d%s"
+    "ru": "$SKIN_PREFIX$Ты успешно установил скин игрока §d%s"
   },
   "SKIN_IS_INVALID": {
-    "ru": "$@SKIN_PREFIX$Выбранный тобой скин невалиден или произошла какая-то ошибка :("
+    "ru": "$SKIN_PREFIX$Выбранный тобой скин невалиден или произошла какая-то ошибка :("
   },
   "PING": {
-    "ru": "$@SERVER_PREFIX$Твой пинг: %s ms"
+    "ru": "$SERVER_PREFIX$Твой пинг: %s ms"
   },
   "PING_OTHER": {
-    "ru": "$@SERVER_PREFIX$Пинг игрока %s: %s ms"
+    "ru": "$SERVER_PREFIX$Пинг игрока %s: %s ms"
   },
 
   "ANNOUNCER_GIT_MESSAGE": {

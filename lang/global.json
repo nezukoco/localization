@@ -3,7 +3,7 @@
     "ru": "§d§lСЕРВЕР §8| §f"
   },
   "LANGUAGE_CHANGE": {
-    "ru": "$@SERVER_PREFIX$Язык успешно изменен на: §5%s"
+    "ru": "$SERVER_PREFIX$Язык успешно изменен на: §5%s"
   },
   "ERROR_COMMAND": {
     "ru": "%sОшибка, используй: §d%s"
